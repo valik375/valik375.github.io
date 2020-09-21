@@ -249,10 +249,7 @@
         "fio": "Герасименко Яна ",
         "company": "-",
         "social": "https://m.facebook.com/profile.php?ref=bookmarks"
-    }
-    ],
-
-    "allusersPart": [
+    },
     {
         "fio": "Береза Денис",
         "company": "ООО \"Юрия-Фарм\"",
@@ -483,5 +480,5 @@
         "company": "Röchling Medical Neuhaus",
         "social": "https://www.facebook.com/RoechlingMedical/"
     }
-    ]
+   ]
 }
