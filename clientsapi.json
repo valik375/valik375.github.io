@@ -51,11 +51,6 @@
         "social": "https://www.facebook.com/profile.php?id=100008163585822"
     },
     {
-        "fio": "Сус Сергей",
-        "company": "dsadasda  ",
-        "social": "-"
-    },
-    {
         "fio": "Токар Валентина",
         "company": "ООО \"Перриго Украина\"",
         "social": "https://www.linkedin.com/in/valentyna-tokar-835363157"
@@ -264,6 +259,11 @@
         "fio": "Авдеев Евгений",
         "company": "ООО \"Такеда Фармасьютикалс\"",
         "social": "https://www.facebook.com/profile.php?id=100010098369581"
+    },
+    {
+        "fio": "Могилюк Валентин",
+        "company": "Queen's University Belfast",
+        "social": "https:
     }
    ]
 }
