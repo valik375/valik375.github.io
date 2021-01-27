@@ -1,7 +1,7 @@
 
 {
     "allusers": [
-        {
+                {
             "fio": "Кравченко Ярослав Игорович ",
             "company": "ЧАО \"Лекхим-Харьков\"",
             "social": "https://www.linkedin.com/in/yaroslav-kravchenko-514a35191/?originalSubdomain=ua"
@@ -10,6 +10,11 @@
             "fio": "Кушнаренко Андрей Юрьевич ",
             "company": "ЧАО \"Лекхим-Харьков\"",
             "social": "https://facebook.com/andrey.kushnarenko.353"
+        },
+        {
+            "fio": "Боровик Оксана",
+            "company": "АПИ",
+            "social": "https://www.linkedin.com/in/sana-borovyk-77350028/detail/recent-activity/shares/"
         },
         {
             "fio": "Селецкий Игорь",
@@ -25,11 +30,6 @@
             "fio": "Марынин Александр Станиславович ",
             "company": "ООО \"Кусум Фарм\"",
             "social": "https://www.facebook.com/oleksandr.marynin.14"
-        },
-        {
-            "fio": "Онищенко Сергей",
-            "company": "АО \"Укргаздобыча\"",
-            "social": "https://www.linkedin.com/in/sergii-onyshchenko-6bb19aa2/"
         },
         {
             "fio": "Шотурма Петр",
@@ -205,6 +205,11 @@
             "fio": "Алексей Коротков",
             "company": "Sea Vision RUS",
             "social": "https://www.linkedin.com/company/seavisiongroup/?originalSubdomain=ru"
+        },
+        {
+            "fio": "Зерова Галина",
+            "company": "ООО \"Агентство профессиональной информации\"",
+            "social": "https://www.linkedin.com/in/galina-zerova-8488041b/"
         },
         {
             "fio": "Шумилова Юлия",
@@ -562,19 +567,99 @@
             "social": "https://www.facebook.com/profile.php?id=10000917371300"
         },
         {
-            "fio": "Денис Воробьев",
-            "company": "ООО \"Фарм. компания \"Здоровье\"\"",
+            "fio": "Воробьев Денис ",
+            "company": "ООО \"ФК \"Здоровье\"\"",
             "social": "https://www.facebook.com/profile.php?id=100001313588123"
         },
         {
-            "fio": "Яненко Оксана Юріївна",
-            "company": "ТОВ Агрофарм",
+            "fio": "Яненко Оксана Юрьевна",
+            "company": "ООО \"Агрофарм\"",
             "social": "https://www.facebook.com/oksana.lysenko.96"
         },
         {
             "fio": "Cinzia Zetta",
             "company": "SeaVision",
             "social": "https://www.linkedin.com/in/cinzia-zetta-81a97949/"
+        },
+        {
+            "fio": "Опольский Константин",
+            "company": "АО \"Витамины\"",
+            "social": "https://www.linkedin.com/in/konstantyn-opolskyi-56845612a"
+        },
+        {
+            "fio": "Тұрлыбек Гауһар Жұматайқызы",
+            "company": "ТОО \"Вива Фарм\"",
+            "social": "https://www.facebook.com/gauhara.turlybek"
+        },
+        {
+            "fio": "Sourabh",
+            "company": "ACG ",
+            "social": "https://www.linkedin.com/company/acg-world/mycompany/"
+        },
+        {
+            "fio": "Шелест В.В.",
+            "company": "ООО \"ФК \"Здоровье\"",
+            "social": "https://www.facebook.com/profile.php?id=100001552734812"
+        },
+        {
+            "fio": "Ateibekov A.O.",
+            "company": "PharmaLink, Laborin",
+            "social": "https://www.linkedin.com/feed/"
+        },
+        {
+            "fio": "Макайда Сергей Владимирович",
+            "company": "ООО НПФ \"Микрохим\"",
+            "social": "https://pl.linkedin.com/public-profile/in/serhii-makaida-167278161"
+        },
+        {
+            "fio": "Глотов Александр Александрович",
+            "company": "Антарес Вижн РУС",
+            "social": "https://www.linkedin.com/in/aleksandr-glotov-792b501a3/"
+        },
+        {
+            "fio": "Ключко Катерина Валентиновна",
+            "company": "ООО \"Таргет-Инновации\"",
+            "social": "https://www.linkedin.com/in/katerina-klyuchko-04a442205/"
+        },
+        {
+            "fio": "Петренко Наталия Николаевна",
+            "company": "ЧАО \"Индар\"",
+            "social": "https://www.linkedin.com/in/nataliia-petrenko-59a302160"
+        },
+        {
+            "fio": "Омельченко Елена Владимировна",
+            "company": "ЧАО \"Красная звезда\"",
+            "social": "https://www.facebook.com/%D0%A5%D1%96%D0%BC%D1%84%D0%B0%D1%80%D0%BC%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4-%D0%A7%D0%B5%D1%80%D0%B2%D0%BE%D0%BD%D0%B0-%D0%B7%D1%96%D1%80%D0%BA%D0%B0-493201027861744"
+        },
+        {
+            "fio": "Копылец Сергей Владимирович",
+            "company": "ООО НПФ \"Микрохим\"",
+            "social": "https://www.facebook.com/sergey.kopylec"
+        },
+        {
+            "fio": "Бендик Михаил Николаевич",
+            "company": "ООО НПФ \"Микрохим\"",
+            "social": "https://www.linkedin.com/in/%D0%BC%D0%B8%D1%85%D0%B0%D0%B8%D0%BB-%D0%B1%D0%B5%D0%BD%D0%B4%D0%B8%D0%BA-49a421b8/"
+        },
+        {
+            "fio": "Мельник Евгений Михайлович ",
+            "company": "Корпорация \"Артериум\" ",
+            "social": "https://www.linkedin.com/in/yevhen-melnyk-56081a56/"
+        },
+        {
+            "fio": "Каратай Наталья Михайловна",
+            "company": "NatiVita",
+            "social": "https://www.linkedin.com/in/natallia-karatai-b1903b1b3/"
+        },
+        {
+            "fio": "Киян В.В.",
+            "company": "ООО \"Таргет-Инновации\"",
+            "social": "https://www.facebook.com/vitaliy.kiyan"
+        },
+        {
+            "fio": "Матюхина Юлия",
+            "company": "ООО «Фармасел»",
+            "social": "https://www.linkedin.com/in/yulia-matyukhina-9295ab91"
         }
     ]
 }
