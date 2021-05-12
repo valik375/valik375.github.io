@@ -392,7 +392,7 @@
             "social": "https://www.linkedin.cn/login"
         },
         {
-            "fio": "Федоренко Дмитро",
+            "fio": "Федоренко Дмитрий",
             "company": "Реттенмайер Украина ООО",
             "social": "https://www.linkedin.com/company/rettenmaier-ukraine-llc/"
         },
@@ -402,13 +402,13 @@
             "social": "https://www.facebook.com/profile.php?id=100013677977474"
         },
         {
-            "fio": "Дорощук Оксана Анатолеевна",
+            "fio": "Дорощук Оксана Анатольевна",
             "company": "БХФЗ НВЦ ЧАО",
             "social": "https://www.facebook.com/profile.php?id=1000002261180673"
         },
         {
             "fio": "Чучман Дмитрий Владимирович",
-            "company": " Микрохим  НПФ ООО",
+            "company": "Микрохим  НПФ ООО",
             "social": "https://www.linkedin.com"
         },
         {
@@ -437,38 +437,33 @@
             "social": "https://www.facebook.com/"
         },
         {
-            "fio": "Бархударян Лусине Ашотовна",
-            "company": "Арпимед ООО",
-            "social": "https://www.facebook.com/"
-        },
-        {
             "fio": "Бостан Елена",
             "company": "Апиценна",
             "social": "https://www.instagram.com/bostan3974"
         },
         {
             "fio": "Потапов Вячеслав Игоревич ",
-            "company": "ООО \"Реттенмайер Рус\"",
+            "company": "Реттенмайер Рус ООО ",
             "social": "https://de.linkedin.com/"
         },
         {
             "fio": "Виноградова Ирина Викторовна",
-            "company": "ФГУП \"Московский эндокринный завод\"",
+            "company": "Московский Эндокринный Завод ФГУП",
             "social": "http//facebook"
         },
         {
             "fio": "Левитин Вячеслав Владимирович",
-            "company": "Московский Эндокринный Завод",
+            "company": "Московский Эндокринный Завод ФГУП",
             "social": "https://www.facebook.com/ppe"
         },
         {
             "fio": "Русина Ольга Николаевна",
-            "company": "ФГУП \"МЭЗ\"",
+            "company": "Московский Эндокринный Завод ФГУП",
             "social": "http://facebook"
         },
         {
             "fio": "Чуприн Егор Николаевич",
-            "company": "ООО Гротекс (Solopharm)",
+            "company": "Гротекс ООО  (Solopharm) ",
             "social": "https://www.linkedin.cn/login"
         },
         {
@@ -483,13 +478,83 @@
         },
         {
             "fio": "Олейников Дмитрий Сергеевич",
-            "company": "ООО НПФ \"МИКРОХИМ\"",
+            "company": "Микрохим  НПФ ООО",
             "social": "https://www.linkedin.com/in/dmitriy-oleynikov-4a6a31172"
         },
         {
             "fio": "Онегин Сергей Владимирович",
             "company": "ЯГМУ",
             "social": "https://www.facebook.com/profile.php?id=100011801901074"
+        },
+        {
+            "fio": "Леонов Андрей Николаевич",
+            "company": "ФарКоС ФК ООО",
+            "social": "https://www.facebook.com/profile.php?id=100001850728890"
+        },
+        {
+            "fio": "Максимович Марина Александровна",
+            "company": "Грин Сайд ООО ",
+            "social": "https://www.facebook.com/mygreenside.ru"
+        },
+        {
+            "fio": "Марынин Александр Станиславович ",
+            "company": "Кусум Фарм ООО ",
+            "social": "https://www.facebook.com/oleksandr.marynin.14"
+        },
+        {
+            "fio": "Мелл Акхилендра Бахадур ",
+            "company": "Кусум Фарм ООО ",
+            "social": "https://www.facebook.com/akhilendra.mall.5"
+        },
+        {
+            "fio": "Падхи Праваш ",
+            "company": "Кусум Фарм ООО ",
+            "social": "https://www.facebook.com/pravash.padhy.3"
+        },
+        {
+            "fio": "Лукьянчик Павел Геннадьевич",
+            "company": "Мед-интерпласт ООО",
+            "social": "httpswww.facebook.com/pavel.lukyanchyk"
+        },
+        {
+            "fio": "Корнев Родион Андреевич",
+            "company": "Биохимик АО ",
+            "social": "https://www.facebook.com/profile.php?id=100008781465739"
+        },
+        {
+            "fio": "Тарасевич Вера Сергеевна",
+            "company": "Изварино Фарма ООО",
+            "social": "https://ru.linkedin.com"
+        },
+        {
+            "fio": "Павловская Ольга Анатольевна",
+            "company": "Реб-Фарма ИПТУП",
+            "social": "https://www.linkedin.com/"
+        },
+        {
+            "fio": "Коваленко Алёна Владимировна",
+            "company": "ИРВИН 2 ООО ",
+            "social": "https://ru-ru.facebook.com/"
+        },
+        {
+            "fio": "Глебова Наталья Николаевна",
+            "company": "Пензенский государственный университет",
+            "social": "https://www.facebook.com/natali.glebova.507"
+        },
+        {
+            "fio": "Беккерман Александр Михайлович",
+            "company": "Технолог ЧАО ",
+            "social": "https://www.facebook.com/alexandr.kovalenko.77"
+        },
+        {
+            "fio": "dv\"DSKVdsvd",
+            "company": "vddd",
+            "social": "https://www.linkedin.com/events/6790539982961459200/"
+        },
+        {
+            "fio": "Pravash Padhy",
+            "company": "Kusum Pharm",
+            "social": "https://www.linkedin.com/in/pravash-padhy-91614619/"
         },
         {
             "fio": "Сологуб Александра ",
