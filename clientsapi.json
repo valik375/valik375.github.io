@@ -1,730 +1,741 @@
 
 {
     "allusers": [
-        {
-            "fio": "Жадан Максим Андреевич",
-            "company": "Stada Ukraine",
-            "social": "https://www.linkedin.com/in/maxzhadan"
-        },
-        {
-            "fio": "Бондарев Артём Валериевич",
-            "company": "Артериум Корпорация",
-            "social": "https://www.linkedin.com/mwlite/in/artem-bondarev-61449812b"
-        },
-        {
-            "fio": "Матюхина Юлия Витальевна ",
-            "company": "Фармасел ООО",
-            "social": "https://www.linkedin.com/in/yulia-matyukhina-9295ab91"
-        },
-        {
-            "fio": "Смирнов Анатолий Сергеевич",
-            "company": "Активный компонент АО",
-            "social": "https://www.linkedin.com/in/anatoly-smirnov-71066a60/"
-        },
-        {
-            "fio": "Люлина Надежда Владимировна",
-            "company": "Фармапарк ООО",
-            "social": "https//www.pharmapark.ru"
-        },
-        {
-            "fio": "Боровик Сана",
-            "company": "АПИ",
-            "social": "https://www.linkedin.com/in/sana-borovyk-77350028/detail/recent-activity/shares/"
-        },
-        {
-            "fio": "Тимофеева В.В.",
-            "company": "Химфарм АО",
-            "social": "https://www.linkedin.com/in/%D0%B2%D0%B5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0-%D1%82%D0%B8%D0%BC%D0%BE%D1%84%D0%B5%D0%B5%D0%B2%D0%B0-6596bb200/"
-        },
-        {
-            "fio": "Горбунова Людмила Александровна",
-            "company": "Янтарное ООО",
-            "social": "https://www.facebook.com/ludmila.gorbunova.7"
-        },
-        {
-            "fio": "Сухинин Сергей Владимирович",
-            "company": "Химфарм АО",
-            "social": "https://www.facebook.com/taka.timon"
-        },
-        {
-            "fio": "Тажиман Нурғали Ерланұлы",
-            "company": "Химфарм АО",
-            "social": "https://vk.com/nurgali5"
-        },
-        {
-            "fio": "Пороль Элина Халильевна",
-            "company": "Химфарм АО",
-            "social": "https://www.linkedin.com/in/gmprussia/?midToken=AQH3fUXVHtomUg&midSig=0CwWmDvh6-WpU1&trk=eml-email_m2m_invite_single_01-hero-4-prof~cta&trkEmail=eml-email_m2m_invite_single_01-hero-4-prof~cta-null-4yfw40~kti3owey~6h-null-neptune%2Fprofile~vanity.view"
-        },
-        {
-            "fio": "Лукьянчик Павел Геннадьевич",
-            "company": "Мед-интерпласт ИПУП",
-            "social": "httpswww.facebook.com/pavel.lukyanchyk"
-        },
-        {
-            "fio": "Нафикова Алина ",
-            "company": "NIKA PHARM ООО",
-            "social": "https://www.facebook.com/profile.php?id=100008007038429"
-        },
-        {
-            "fio": "Дербина Галина Александровна",
-            "company": "Сотекс ФФ ЗАО",
-            "social": "https://www.linkedin.com/sotex/g_derbina"
-        },
-        {
-            "fio": "Бабилева Анастасия Андреевно",
-            "company": "SC Balkan Pharmaceuticals SRL",
-            "social": "https://www.linkedin.com/in/anastasia-babileva-a83192165/"
-        },
-        {
-            "fio": "Огай Людмила Геннадьевна",
-            "company": "Полисан НТФФ ООО ",
-            "social": "https://www/facebook.com/liudmila.ogai"
-        },
-        {
-            "fio": "Назаренко Иван Иванович",
-            "company": "Полисан НТФФ ООО ",
-            "social": "https://www.facebook.com/ivan.nazarenko.92"
-        },
-        {
-            "fio": "Ani Nazaryan",
-            "company": "Arpimed LLC",
-            "social": "https://www.facebook.com/ani.nazaryan.779/"
-        },
-        {
-            "fio": "Миронович Эльмира Энверовна",
-            "company": "Фарма Старт ООО",
-            "social": "https://www.facebook.com/profile.php?id=100007984064337"
-        },
-        {
-            "fio": "Андрущенко Ярослав Владимирович",
-            "company": "Фармак АО",
-            "social": "https://www.linkedin.com/in/yaroslav-andrushchenko-1a3246193?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bj%2Fomg9uxSt2%2BMr8BVxI3ZQ%3D%3D"
-        },
-        {
-            "fio": "Ярмоленко Александр Витальевич",
-            "company": "Юрия-фарм ООО",
-            "social": "https://www.linkedin.com/notifications/"
-        },
-        {
-            "fio": "Визир Николай Николаевич",
-            "company": "Acino Фарма Старт ООО",
-            "social": "https://www.linkedin.com/in/mykola-vizir-595b14bb"
-        },
-        {
-            "fio": "Загний Роман Олегович",
-            "company": "Фармак АО",
-            "social": "https://farmak.ua/"
-        },
-        {
-            "fio": "Донцов Сергей Викторович",
-            "company": "Юрия-фарм ООО",
-            "social": "https://www.facebook.com/profile.php?id=100026569753635"
-        },
-        {
-            "fio": "Белинский Вадим юрьевич",
-            "company": "МираксБиоФарма АО",
-            "social": "https://www.facebook.com"
-        },
-        {
-            "fio": "Максимович Марина Александровна",
-            "company": "Грин Сайд ООО",
-            "social": "https://www.facebook.com/mygreenside.ru"
-        },
-        {
-            "fio": "Давыдик Евгений",
-            "company": "Химфарм АО",
-            "social": "https://www.linkedin.com/in/davydikeugeniy"
-        },
-        {
-            "fio": "Волкадаева Нина Дмитриевна ",
-            "company": "Химфарм АО",
-            "social": "https:www.linkedin.com/pharmaceutical-industry-reve "
-        },
-        {
-            "fio": "Воронина Наталья Анатольевна",
-            "company": "Верофарм ООО ",
-            "social": "http//"
-        },
-        {
-            "fio": "Слипченко Галина Дмитириевна",
-            "company": "НФаУ",
-            "social": "https://www.facebook.com/profile.php?id=100017521112859"
-        },
-        {
-            "fio": "Алмакаева Людмила",
-            "company": "УжНУ",
-            "social": "https://www.linkedin.com/feed/"
-        },
-        {
-            "fio": "Грегирчак Наталия Николаевна",
-            "company": "НУХТ",
-            "social": "https://www.facebook.com/nataliya.gregirchak"
-        },
-        {
-            "fio": "Маслий Юлия Сергеевна",
-            "company": "НФаУ",
-            "social": "https://www.facebook.com/julia.masliy"
-        },
-        {
-            "fio": "Ключникова Инесса",
-            "company": "Химфарм АО",
-            "social": "https://www.facebook.com/profile.php?id=100006263803623"
-        },
-        {
-            "fio": "Басевич Анна Викторовна",
-            "company": "СПХФУ",
-            "social": "https://www.facebook.com/profile.php?id=100056858706084"
-        },
-        {
-            "fio": "Леонтюк Игорь",
-            "company": "Acino Фарма Старт ООО",
-            "social": "https://www.facebook.com/ihor.leontiuk/"
-        },
-        {
-            "fio": "Рубан Елена Анатольевна",
-            "company": "НФаУ",
-            "social": "https://www.linkedin.com/in/%D0%B8%D0%BD%D0%BD%D0%B0-%D0%BA%D0%BE%D0%B2%D0%B0%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F-2963a591/?midToken=AQHi-K_vHue5EQ&trk=eml-email_pymk_01-header-82-profile&trkEmail=eml-email_pymk_01-header-82-profile-null-5ecmz6%7Ekfd28eqw%7Epf-null-neptune%2Fprofile%7Evanity%2Eview"
-        },
-        {
-            "fio": "Кухтенко Галина Павловна",
-            "company": "НФаУ",
-            "social": "https://www.facebook.com/galina.kukh"
-        },
-        {
-            "fio": "Левченко Юрий Иванович",
-            "company": "Лекхим-Харьков ЧАО",
-            "social": "https://www.facebook.com/levchenko.yuri"
-        },
-        {
-            "fio": "Пилипейко Елена Александровна",
-            "company": "АВЗ С-П ООО",
-            "social": "https://www.linkedin.com/company/pharmaceutical-industry-review-magazine"
-        },
-        {
-            "fio": "Дейнека Дмитрий Юрьевич",
-            "company": "Лекхим-Обухов ООО",
-            "social": "https://facebook.com/dyd.vidun"
-        },
-        {
-            "fio": "Жасминова Лидия Федоровна",
-            "company": "АВЗ С-П ООО",
-            "social": "https://www.linkedin.com/company/pharmaceutical-industry-review-magazine"
-        },
-        {
-            "fio": "Машинистова Ольга Игоревна",
-            "company": "АВЗ С-П ООО",
-            "social": "https://www.linkedin.com/company/pharmaceutical-industry-review-magazine"
-        },
-        {
-            "fio": "Рябовол Елена Владимировна",
-            "company": "Лекхим-Обухов ООО",
-            "social": "https://www.facebook.com/elena.riabovol.357"
-        },
-        {
-            "fio": "Каверин Артем Валерьевич",
-            "company": "АВЗ С-П ООО",
-            "social": "https://www.linkedin.com/company/pharmaceutical-industry-review-magazine"
-        },
-        {
-            "fio": "Иванова Анастасия Вадимовна",
-            "company": "Тернофарм ООО",
-            "social": "https://www.facebook.com/nnassttya"
-        },
-        {
-            "fio": "Михаил Трегуб",
-            "company": "Acino Фарма Старт ООО",
-            "social": "https://www.linkedin.com/in/mikhail-tregub-0606ab166/"
-        },
-        {
-            "fio": "Кардашев Андрей Валентинович",
-            "company": "Фармак АО",
-            "social": "https://andrii-kardashev-03555b190"
-        },
-        {
-            "fio": "Тодор Олег Игоревич",
-            "company": "Acino Фарма Старт ООО",
-            "social": "https://www.linkedin.com/in/oleg-todor-911058106/"
-        },
-        {
-            "fio": "Крч Кристина Людвиговна",
-            "company": "УжНУ",
-            "social": "https://www.facebook.com/krch.christina"
-        },
-        {
-            "fio": "Криванич О.В.",
-            "company": "УжНУ",
-            "social": "https://www.facebook.com/olga.kryvanych"
-        },
-        {
-            "fio": "Тарасевич Дмитрий",
-            "company": "Борщаговский ХФЗ НПЦ ЧАО",
-            "social": "https://www.facebook.com/profile.php?id=100001909056482"
-        },
-        {
-            "fio": "Авсеенко Василий Олегович",
-            "company": "Вакцина человека ООО",
-            "social": "https://www.linkedin.com/in/avseenko/"
-        },
-        {
-            "fio": "Трутаев Сергей Игоревич",
-            "company": "НФаУ",
-            "social": "https://www.facebook.com/profile.php?id=100015061416868"
-        },
-        {
-            "fio": "Ярмоленко Александр Витальевич",
-            "company": "Юрия-фарм ООО",
-            "social": "https://www.linkedin.com/notifications/"
-        },
-        {
-            "fio": "Сичкарь Антонина Анатолиевна",
-            "company": "НФаУ",
-            "social": "https://m.facebook.com/home.php"
-        },
-        {
-            "fio": "Бондаренко Алена Сергеевна",
-            "company": "НФаУ",
-            "social": "https://www.facebook.com/profile.php?id=100011639473545"
-        },
-        {
-            "fio": "Сайко Ирина Владимировна",
-            "company": "НФаУ",
-            "social": "https://m.facebook.com/vip.sajko?tsid=0.6714821973447687&source=result"
-        },
-        {
-            "fio": "Николайчук Нина",
-            "company": "НФаУ",
-            "social": "https://www.facebook.com/nina.nikolajchuk"
-        },
-        {
-            "fio": "Мартынчук Марьяна Петровна",
-            "company": "Фитофарм ЧАО",
-            "social": "http://linkedin.com/in/maryana-martynchuk-12888aa4"
-        },
-        {
-            "fio": "Малинин Владислав",
-            "company": "Фитофарм ЧАО",
-            "social": "https://www.linkedin.com/in/vladislavmalinin"
-        },
-        {
-            "fio": "Холод Людмила Николаевна",
-            "company": "Фармак АО",
-            "social": "https://farmak.workplace.com/work/landing/input/?next=https%3A%2F%2Ffarmak.workplace.com%2Fgroups%2F2609564619065810%2F"
-        },
-        {
-            "fio": "Теленик Наталья Анатольевна",
-            "company": "Фармак АО",
-            "social": "https://farmak.workplace.com/?request_id=gimficokggeijabiacdjmleipcddemhndblikfng&login_type=0"
-        },
-        {
-            "fio": "Світлана",
-            "company": "ТОВ АПИ",
-            "social": "https://www.linkedin.com/"
-        },
-        {
-            "fio": "Валиводзь Ирина Петровна",
-            "company": "ОНМЕДУ",
-            "social": "https://www.facebook.com/"
-        },
-        {
-            "fio": "Думанчук Мария",
-            "company": "Фитофарм ЧАО",
-            "social": "https://www.facebook.com/marina.dumanchuk"
-        },
-        {
-            "fio": "Заец Наталия Александровна",
-            "company": "Новофарм-Биосинтез ООО",
-            "social": "https://www.facebook.com/nata.vakhnicheva"
-        },
-        {
-            "fio": "Криклива Ирина Александровна",
-            "company": "НФаУ",
-            "social": "https://www.facebook.com/nuph.edu.ua/"
-        },
-        {
-            "fio": "Карпенко Ольга",
-            "company": "Фарма Старт ООО",
-            "social": "https://www.facebook.com/profile.php?id=100009287377368"
-        },
-        {
-            "fio": "Нигматулина Александра",
-            "company": "Химфарм АО",
-            "social": "https://www.facebook.com/alexandra.gavrilenko.14"
-        },
-        {
-            "fio": "Борисова Ольга Владимировна",
-            "company": "Ниармедик Плюс ООО",
-            "social": "https://www.facebook.com/checkpoint/828281030927956/"
-        },
-        {
-            "fio": "Волынщикова Ирина ",
-            "company": "АВ-ФАРМА ЧАО",
-            "social": "https://www.linkedin.com/in/iryna-volynschikova-841073213/"
-        },
-        {
-            "fio": "Ерхова Анна Владиславовна ",
-            "company": "Украина университет",
-            "social": "https://www.facebook.com/UUkraine/"
-        },
-        {
-            "fio": "Тыщенко Максим Евгеньевич",
-            "company": "Dr.Theiss",
-            "social": "https://www.linkedin.com/company/"
-        },
-        {
-            "fio": "Кушнаренко Андрей Юрьевич",
-            "company": "Лекхим-Харьков ЧАО",
-            "social": "https://www.facebook.com/andrey.kushnarenko.353"
-        },
-        {
-            "fio": "Ковалевская Инна Вячеславовна",
-            "company": "НФаУ",
-            "social": "https://ru.linkedin.com/"
-        },
-        {
-            "fio": "Ленгас Ирина ",
-            "company": "GHC",
-            "social": "https://www.facebook.com/ira.lengas"
-        },
-        {
-            "fio": "Halyna Zerova",
-            "company": "API",
-            "social": "https://www.linkedin.com/in/galina-zerova-8488041b/"
-        },
-        {
-            "fio": "Марчак Оксана Анатольевна",
-            "company": "Киевмедпрепарат, корпорация Артериум",
-            "social": "https://www.linkedin.com/in/oksana-marchak-8998441aa/?midToken=AQF9sh1J8MVZsA&midSig=0H5PEpJbJrR9E1&trk=eml-email_notification_digest_01-header-15-profile&trkEmail=eml-email_notification_digest_01-header-15-profile-null-dkcmb9%7Ekm4jnrqf%7Efn-null-neptune%2Fprofile%7Evanity%2Eview"
-        },
-        {
-            "fio": "Ленчук Иван Викторович",
-            "company": "Фармак АО",
-            "social": "https://www.facebook.com/ivan.lenchuk.90"
-        },
-        {
-            "fio": "Найда Юрий Викторович",
-            "company": "Фармак АО",
-            "social": "https://www.linkedin.com/in/yurii-naida-307a6421a"
-        },
-        {
-            "fio": "Zoran Bubalo",
-            "company": "IMA EST ",
-            "social": "https://www.linkedin.com/in/bubalo-zoran-b6856561/"
-        },
-        {
-            "fio": "Julia Sorokina ",
-            "company": "IMA EST ",
-            "social": "https://www.linkedin.com/in/julia-sorokina-86b413140/"
-        },
-        {
-            "fio": "Кухтенко Александр Сергеевич",
-            "company": "НФаУ",
-            "social": "https://www.facebook.com/kukhtenk/"
-        },
-        {
-            "fio": "Занегин Андей Валентинович",
-            "company": "АВЗ С-П ООО",
-            "social": "https://www.linkedin.com/company/pharmaceutical-industry-review-magazine"
-        },
-        {
-            "fio": "Дубова Ольга Сергеевна",
-            "company": "АВЗ С-П ООО",
-            "social": "https://www.linkedin.com/company/pharmaceutical-industry-review-magazine"
-        },
-        {
-            "fio": "Белый Алексей",
-            "company": "Лекхим-Обухов ООО",
-            "social": "https://www.linkedin.com/e/v2?e=fgnrv5-kttzwlf9-hy&lipi=urn%3Ali%3Apage%3Aemail_security_add_email_notification%3B0%2FEQKK5qSp2AIsuS2X65iQ%3D%3D&t=nas&midToken=AQFD5EJQnY6_dQ&midSig=23yHrYzhmi69Y1&ek=security_add_email_notification"
-        },
-        {
-            "fio": "Брушко Николай Владимирович",
-            "company": "ИПУП \"Мед-интерпласт\"",
-            "social": "https://www.facebook.com/profile.php?id=100001449522266"
-        },
-        {
-            "fio": "Євген Андрійович Безрукавий",
-            "company": "Національний фармацевтичний університет",
-            "social": "https://www.facebook.com/yevgen.bezrukaviy/"
-        },
-        {
-            "fio": "Росада Николай",
-            "company": "ООО «ДКП «Фармацевтическая фабрика»",
-            "social": "https://www.facebook.com/nikola.rosada.7"
-        },
-        {
-            "fio": "Никитенко Алексей Николаевич ",
-            "company": "Фитофарм ЧАО",
-            "social": "https://www.facebook.com/Nikitenko.Alex"
-        },
-        {
-            "fio": "Козловская Оксана",
-            "company": "ostride-labs",
-            "social": "https://www.linkedin.com/in/kazlouskayas?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACa8mUwBv5ow6LdHy5tWQgWIm87Vxkg0Q88&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people_load_more%3BqcL5rG43Q6SGF%2BH5ifYWVg%3D%3D"
-        },
-        {
-            "fio": "Сачко Ярослав",
-            "company": "Arterium",
-            "social": "https://www.linkedin.com/in/yaroslav-sachko-35b56a148?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACOtp3cB6TML2u7eoVn97wIzJHoZxvoU5WM&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3BlYw%2BllDxTqC0Ourd30k8Yg%3D%3D"
-        },
-        {
-            "fio": "Serhiienko Anna",
-            "company": "Инжениум Групп ООО",
-            "social": "https://www.linkedin.com/in/anna-serhiienko-5b47121b7?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADJ5JdgB1SSmtCN9UPQpQWse6jDYIKJu2_0&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people_load_more%3BvqyAQmhtR9ayXIx0l8%2BACg%3D%3D"
-        },
-        {
-            "fio": "Dmitrenko Oksana",
-            "company": "PFARM/sales company",
-            "social": "https://www.linkedin.com/in/oksana-dmitrenko-826480103?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABo7bJ4BDFbFjULG1GsCpvfnLFjXshBttKA&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people_load_more%3BqcL5rG43Q6SGF%2BH5ifYWVg%3D%3D"
-        },
-        {
-            "fio": "Paketa Bohdan",
-            "company": "amperservice",
-            "social": "https://www.linkedin.com/in/bohdan-paketa-938695105?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABqel_wBi-T9BRZ48YUTePhszlQgHGkJ7aw&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3BjWbI5gOOQlCityKE1ZL4mg%3D%3D"
-        },
-        {
-            "fio": "Коротких Александр",
-            "company": "Биофарма ООО",
-            "social": "https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80-%D0%BA%D0%BE%D1%80%D0%BE%D1%82%D0%BA%D0%B8%D1%85-326480113?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABxeKc4BE7pKHaMhHHEo4n3-2Nrj9gELbd8&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3BoM3J%2BU6BQI%2By%2FAfW27qfLw%3D%3D"
-        },
-        {
-            "fio": "Смагло Андрей",
-            "company": "Артериум Корпорация",
-            "social": "https://www.linkedin.com/in/%D0%B0%D0%BD%D0%B4%D1%80%D1%96%D0%B9-%D1%81%D0%BC%D0%B0%D0%B3%D0%BB%D0%BE-51a8b3a2?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABXYkiYBO6BIhfM8KuUAso4KyDOh236dQyg&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people_load_more%3BvqyAQmhtR9ayXIx0l8%2BACg%3D%3D"
-        },
-        {
-            "fio": "Zaslavska Oleksandra",
-            "company": "Здоровье ФК ООО",
-            "social": "https://www.linkedin.com/search/results/people/headless?eventAttending=%5B6833669333558857728%5D&origin=EVENT_PAGE_CANNED_SEARCH&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3BqYNsXTpKRJOtzkF90GuELA%3D%3D"
-        },
-        {
-            "fio": "Chichkan Vitaliy",
-            "company": "Айти Групп",
-            "social": "https://www.linkedin.com/in/vitaliy-chichkan-3025221aa?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADDXzTIB8YBlG4y-OQ4LTIlPUwCxp5p7ybQ&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3BjWbI5gOOQlCityKE1ZL4mg%3D%3D"
-        },
-        {
-            "fio": "Liashenko Max",
-            "company": "Частный предприниматель",
-            "social": "https://www.linkedin.com/in/max-liashenko-b86349178?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACoNq1YBVAn6siJMuP2bRnpH-L-9AxoNYYE&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people_load_more%3BvqyAQmhtR9ayXIx0l8%2BACg%3D%3D"
-        },
-        {
-            "fio": "Jabbarova Shohista",
-            "company": "Ташкенский фармацевтический университет",
-            "social": "https://www.linkedin.com/search/results/people/headless?eventAttending=%5B6833669333558857728%5D&origin=EVENT_PAGE_CANNED_SEARCH&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3BqYNsXTpKRJOtzkF90GuELA%3D%3D"
-        },
-        {
-            "fio": "Fandeev Dennis",
-            "company": "Частный предприниматель",
-            "social": "https://www.linkedin.com/in/dennis-fandeev?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAwomq0B6T40Rj1TtdIgJ4JnQS8Im43bVxw&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people_load_more%3BqcL5rG43Q6SGF%2BH5ifYWVg%3D%3D"
-        },
-        {
-            "fio": "Nikitina Vitalina",
-            "company": "Юрия Фарм ООО",
-            "social": "https://www.linkedin.com/in/vitalina-nikitina-b7650814a?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACQG2IoBS2jhVJ3vt8oRX-XLjlyEJEQy-Pc&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3BoM3J%2BU6BQI%2By%2FAfW27qfLw%3D%3D"
-        },
-        {
-            "fio": "Сухопара Светлана",
-            "company": "Pharmaceutical Industry Review, magazine",
-            "social": "https://www.linkedin.com/in/%D1%81%D0%B2%D0%B5%D1%82%D0%BB%D0%B0%D0%BD%D0%B0-%D1%81%D1%83%D1%85%D0%BE%D0%BF%D0%B0%D1%80%D0%B0-ba4aa6169?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACg04SwBXvVO1xIuXkvYjjXnfCqt8zy9a0s&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people_load_more%3BqcL5rG43Q6SGF%2BH5ifYWVg%3D%3D"
-        },
-        {
-            "fio": "Voloshko Ivan",
-            "company": "medipromtech-llc",
-            "social": "https://www.linkedin.com/in/ivan-voloshko-807a673b?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAiFgccBq9btGM0R-Nruj2k5ci-tAEHwAik&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people_load_more%3BqcL5rG43Q6SGF%2BH5ifYWVg%3D%3D"
-        },
-        {
-            "fio": "Volynschikova Iryna",
-            "company": "AV-PHARMA PJSC",
-            "social": "https://www.linkedin.com/in/iryna-volynschikova-841073213?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADXvv_EBYMS5HHklDuuKWFloR7h63zzcFtM&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people_load_more%3B4KsMEvZsSPa3Ee7bQioFag%3D%3D"
-        },
-        {
-            "fio": "Korotkov Alexey",
-            "company": "SeaVision",
-            "social": "https://www.linkedin.com/in/alexey-korotkov-395415173?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACkslOEBNuq9hZWiV9hDoVd0VmK9JuXIuwQ&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3BjWbI5gOOQlCityKE1ZL4mg%3D%3D"
-        },
-        {
-            "fio": "Salnikova Diana ",
-            "company": "Нolderpharm",
-            "social": "https://www.linkedin.com/in/diana-salnikova?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADIAgx0BroIudOaRqQlnnDQ7W7ziLbvAlbY&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3BoM3J%2BU6BQI%2By%2FAfW27qfLw%3D%3D"
-        },
-        {
-            "fio": "Savoniuk Yevheniia",
-            "company": "grindeks",
-            "social": "https://www.linkedin.com/in/yevheniia-savoniuk-69841519a?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAC6xBpQBaKEOmc5OvXQx1IMQW6K6C2pdWrU&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people_load_more%3BvqyAQmhtR9ayXIx0l8%2BACg%3D%3D"
-        },
-        {
-            "fio": "Maroz Natallia",
-            "company": "FARMALABOR S.r.l.",
-            "social": "https://www.linkedin.com/in/natallia-maroz-28ba5b4a?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAp6eMsB74HLAqSpagPfq388hFSnHAtYbSE&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people_load_more%3BvqyAQmhtR9ayXIx0l8%2BACg%3D%3D"
-        },
-        {
-            "fio": "Dudnikov Leonid",
-            "company": "Middle East for Vaccines (MEVAC)",
-            "social": "https://www.linkedin.com/in/leonid-dudnikov-31a15677?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABA3u0YBlizYbMJhq7QhhrNuY8G-iQKgWJI&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3BjWbI5gOOQlCityKE1ZL4mg%3D%3D"
-        },
-        {
-            "fio": "Попов Александр",
-            "company": "Юрия Фарм ООО",
-            "social": "https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80-%D0%BF%D0%BE%D0%BF%D0%BE%D0%B2-11251ba8?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABbbl94BvCayfeoUYncnkAI-E7BDnXzdZmQ&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3BoM3J%2BU6BQI%2By%2FAfW27qfLw%3D%3D"
-        },
-        {
-            "fio": "Zlatin Alexandr",
-            "company": "Интерхим ЧАО",
-            "social": "https://www.linkedin.com/in/alexandr-zlatin-2a8998195?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAC3izKABP0G2vP1Kjkx_Fl2QX18jA3S24lY&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people_load_more%3BvqyAQmhtR9ayXIx0l8%2BACg%3D%3D"
-        },
-        {
-            "fio": "Stelmakh Igor",
-            "company": "Интерхим ЧАО",
-            "social": "https://www.linkedin.com/in/igor-stelmakh-08b523105?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABqYgqsBm0YE8Qpdt9g7sESZv_C9IEQPBTo&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3B6lWuFxT4RGSpSJW57nz9Ww%3D%3D"
-        },
-        {
-            "fio": "Chernukha Anna",
-            "company": "jadran galenski laboratorii d.d.",
-            "social": "https://www.linkedin.com/in/annachernukha?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACJZkcsBGimXO_1Zoq4qZ3KYvxlmqceHp9k&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3BlYw%2BllDxTqC0Ourd30k8Yg%3D%3D"
-        },
-        {
-            "fio": "Fedotov Nikita",
-            "company": "Agroseeds SRL",
-            "social": "https://www.linkedin.com/in/%D0%BD%D0%B8%D0%BA%D0%B8%D1%82%D0%B0-%D1%84%D0%B5%D0%B4%D0%BE%D1%82%D0%BE%D0%B2-85a5251b1?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADFglIYBMMTMov7gO2-gBzCitbP0L0c6wFk&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people_load_more%3B4KsMEvZsSPa3Ee7bQioFag%3D%3D"
-        },
-        {
-            "fio": "Черенкова Юлия",
-            "company": "ПОЛИСАН НТФФ ООО",
-            "social": "https://www.linkedin.com/in/%D1%8E%D0%BB%D0%B8%D1%8F-%D1%87%D0%B5%D1%80%D0%B5%D0%BD%D0%BA%D0%BE%D0%B2%D0%B0-a0473985?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABIVmWQBzq_CCO-5XLIZcSBcYGSp-WS9Bfo&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3BjWbI5gOOQlCityKE1ZL4mg%3D%3D"
-        },
-        {
-            "fio": "Davydik Evgeniy",
-            "company": "Химфарм АО",
-            "social": "https://www.linkedin.com/in/davydikeugeniy?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABbR8S0BZ2Fp2nWyMUr43Jke7Fxw7Za9ENE&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people_load_more%3BqcL5rG43Q6SGF%2BH5ifYWVg%3D%3D"
-        },
-        {
-            "fio": "Pryanichnikova Oxana",
-            "company": "DXDO",
-            "social": "https://www.linkedin.com/in/oxana-pryanichnikova-59825577?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABA7ggQBIc_mvaEXJxG5kpms3VfvInhpfXs&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3BjWbI5gOOQlCityKE1ZL4mg%3D%3D"
-        },
-        {
-            "fio": "Асмолова Наталья Николаевна",
-            "company": "Фарма Старт ООО",
-            "social": "https://www.linkedin.com/in/natalia-asmolova-%D0%B0%D1%81%D0%BC%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0-%D0%BD%D0%B0%D1%82%D0%B0%D0%BB%D1%8C%D1%8F-%D0%BD%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%BD%D0%B0-65213239?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAgHIB4BrXTF3sTnlhFOL_FiBlc-SrdNr3I&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3BoM3J%2BU6BQI%2By%2FAfW27qfLw%3D%3D"
-        },
-        {
-            "fio": "Шовкун Ярослав",
-            "company": "Сперко ООО",
-            "social": "https://www.linkedin.com/in/%D1%8F%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2-%D1%88%D0%BE%D0%B2%D0%BA%D1%83%D0%BD-499b65219?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADcqnnUBMUGXYSWiRvnvkT3WxEMZ_XtNLGQ&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people_load_more%3BvqyAQmhtR9ayXIx0l8%2BACg%3D%3D"
-        },
-        {
-            "fio": "Hermis Europe ",
-            "company": "Hermis europe",
-            "social": "https://www.linkedin.com/search/results/people/headless?eventAttending=%5B6833669333558857728%5D&origin=EVENT_PAGE_CANNED_SEARCH&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3B7ptawdfjT8uqQkBN9lFCxg%3D%3D"
-        },
-        {
-            "fio": "Sidenko Anastasiia",
-            "company": "STADA Group",
-            "social": "https://www.linkedin.com/in/iryna-volynschikova-841073213?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADXvv_EBYMS5HHklDuuKWFloR7h63zzcFtM&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people_load_more%3B4KsMEvZsSPa3Ee7bQioFag%3D%3D"
-        },
-        {
-            "fio": "Kulišovs Laurīns",
-            "company": "Children’s Clinical University Hospital in Riga",
-            "social": "https://www.linkedin.com/search/results/people/headless?eventAttending=%5B6833669333558857728%5D&origin=EVENT_PAGE_CANNED_SEARCH&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3BqYNsXTpKRJOtzkF90GuELA%3D%3D"
-        },
-        {
-            "fio": "Chanchikov Alexander",
-            "company": "Private Joint Stock Company \"Pharmaceutical Factory\" Viola \"",
-            "social": "https://www.linkedin.com/in/alexander-chanchikov-42a7b6b8?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABkI-eIBclwclHGOixfLvh5cxFMk4myn1oc&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3BoM3J%2BU6BQI%2By%2FAfW27qfLw%3D%3D"
-        },
-        {
-            "fio": "Zvarych Volodymyr",
-            "company": "Юрия Фарм ООО",
-            "social": "https://www.linkedin.com/in/volodymyr-zvarych-8bb226168?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACfmZ48BCZyaFAF9rYpXAHcUel3vduQBLUI&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3BoM3J%2BU6BQI%2By%2FAfW27qfLw%3D%3D"
-        },
-        {
-            "fio": "Avseenko Vasiliy",
-            "company": "Sphera Pharma LLC",
-            "social": "https://www.linkedin.com/in/avseenko?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAABY3y0BqOrpsRma-p6xLq-oEUJgn1NqX_c&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3BjWbI5gOOQlCityKE1ZL4mg%3D%3D"
-        },
-        {
-            "fio": "Udovenko Inna",
-            "company": "Артериум Корпорация",
-            "social": "https://www.linkedin.com/in/inna-udovenko-710299145?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACMagbwBWznIifGwqXnsBbQPwQHTyUCbQDc&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3BoM3J%2BU6BQI%2By%2FAfW27qfLw%3D%3D"
-        },
-        {
-            "fio": "Orlov Maksim",
-            "company": "Beltech Optronics",
-            "social": "https://www.linkedin.com/in/maksim-orlov-682827123?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAB6OZQIBlelfBowtBQEAbmRVhPsTm8DwxzQ&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people_load_more%3BqcL5rG43Q6SGF%2BH5ifYWVg%3D%3D"
-        },
-        {
-            "fio": "Chornaya Alena",
-            "company": "ZooExpress",
-            "social": "https://www.linkedin.com/search/results/people/headless?eventAttending=%5B6833669333558857728%5D&origin=EVENT_PAGE_CANNED_SEARCH&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3BqYNsXTpKRJOtzkF90GuELA%3D%3D"
-        },
-        {
-            "fio": "Shoshmin Andrey",
-            "company": "Фармак АО",
-            "social": "https://www.linkedin.com/in/andrey-shoshmin-99b33941?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAjFKUcBRl--eSoWVRyj6takwfeqjsjzs9U&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3BjWbI5gOOQlCityKE1ZL4mg%3D%3D"
-        },
-        {
-            "fio": "Perekhrest Pavel",
-            "company": "Борщаговский ХФЗ НПЦ ЧАО",
-            "social": "https://www.linkedin.com/in/pavel-perekhrest-a5466484?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABHlDuABeRkX3Ui2dBXY76yknLjNQ3mLbDI&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3BoM3J%2BU6BQI%2By%2FAfW27qfLw%3D%3D"
-        },
-        {
-            "fio": "Матюхин Денис",
-            "company": "Борщаговский ХФЗ НПЦ ЧАО",
-            "social": "https://www.linkedin.com/in/%D0%B4%D0%B5%D0%BD%D0%B8%D1%81-%D0%BC%D0%B0%D1%82%D1%8E%D1%85%D0%B8%D0%BD-a5a735125?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAB7l_qYBYc3eKBC9y497Qvd9jr07FYHyuKw&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3BlYw%2BllDxTqC0Ourd30k8Yg%3D%3D"
-        },
-        {
-            "fio": "Vodnev Vyacheslav",
-            "company": "rusbiopharm",
-            "social": "https://www.linkedin.com/in/vyacheslav-vodnev-89aa9a19b?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAC74CXYBrtJg9fS2iuARDr1x-dqKyyVMolQ&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people_load_more%3BqcL5rG43Q6SGF%2BH5ifYWVg%3D%3D"
-        },
-        {
-            "fio": "Vahidov Faridun",
-            "company": "JV \"Samarkand England Eco Medical Ltd\" \"SEEM\"",
-            "social": "https://www.linkedin.com/in/faridun-vahidov-b703b6143?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACLDvgQBOES65TdpZNRvvL22cL2cTmiN4eg&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3BjWbI5gOOQlCityKE1ZL4mg%3D%3D"
-        },
-        {
-            "fio": "Деркач Марьян",
-            "company": "Биотестлаб",
-            "social": "https://www.linkedin.com/in/%D0%BC%D0%B0%D1%80%D1%8C%D1%8F%D0%BD-%D0%B4%D0%B5%D1%80%D0%BA%D0%B0%D1%87-1a919384?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABHS-lEB1h5YXgfE_-8fRW4kHbBqwUlGtxw&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3BlYw%2BllDxTqC0Ourd30k8Yg%3D%3D"
-        },
-        {
-            "fio": "Kravchenko Yaroslav",
-            "company": "Лекхим-Харьков ЧАО",
-            "social": "https://www.linkedin.com/in/yaroslav-kravchenko-514a35191?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAC0uX6ABlq_dNBTHHB1VvJ_ofeLW_Pg7DKw&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3BlYw%2BllDxTqC0Ourd30k8Yg%3D%3D"
-        },
-        {
-            "fio": "Cherniuk Bogdan",
-            "company": "Артериум Корпорация",
-            "social": "https://www.linkedin.com/in/bogdan-cherniuk-53051014b?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACQ0f_QB1Dxw9EsIeppk9oZUaRGgELktu7E&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3BoM3J%2BU6BQI%2By%2FAfW27qfLw%3D%3D"
-        },
-        {
-            "fio": "Gaus Alexander",
-            "company": "pharmup-gmbh",
-            "social": "https://www.linkedin.com/in/alexander-gaus-67a605207?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADSX3X4B06y8O3i-W9Hy_qwl3MQQtYAdLw4&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3B6lWuFxT4RGSpSJW57nz9Ww%3D%3D"
-        },
-        {
-            "fio": "Fetisova Iryna",
-            "company": "Фармак АО",
-            "social": "https://www.linkedin.com/in/iryna-fetisova-26464a153?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACTvwOwBmSTkLJAS_ocPf8WpMr59k9gKZgI&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3B6lWuFxT4RGSpSJW57nz9Ww%3D%3D"
-        },
-        {
-            "fio": "Kryvsha Maksim",
-            "company": "Acino Фарма Старт ООО",
-            "social": "https://www.linkedin.com/in/maksim-kryvsha-907104150?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACRSrBcBRnN0S9V_L5JdYsc_d00pv29J6gM&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3B6lWuFxT4RGSpSJW57nz9Ww%3D%3D"
-        },
-        {
-            "fio": "Морозова Елена",
-            "company": "Виола ",
-            "social": "https://www.linkedin.com/in/%D0%B5%D0%BB%D0%B5%D0%BD%D0%B0-%D0%BC%D0%BE%D1%80%D0%BE%D0%B7%D0%BE%D0%B2%D0%B0-3b0a45a1?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABWwb_QBXtpm4HN_DczD8J1GvVHqhpXcQIM&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people_load_more%3BvqyAQmhtR9ayXIx0l8%2BACg%3D%3D"
-        },
-        {
-            "fio": "Mazurkevych Vlad",
-            "company": "Биотестлаб",
-            "social": "https://www.linkedin.com/in/vlad-mazurkevych?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABG6oRkBhbsk-jN6YJEuzc4nHXLzC1ntRdY&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3B6lWuFxT4RGSpSJW57nz9Ww%3D%3D"
-        },
-        {
-            "fio": "Gochynski Danel",
-            "company": "ФармаПак",
-            "social": "https://www.linkedin.com/in/dgochynski?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAzlQeoBguKkx2_4sQlvJWueqI9QOnUZqKw&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3BjWbI5gOOQlCityKE1ZL4mg%3D%3D"
-        }
-    ]
+    {
+        "fio": "Павлов Алексей Александрович",
+        "company": "Нанолек ООО ",
+        "social": "https://www.facebook.com/nanolek/"
+    },
+    {
+        "fio": "Куликов Алексей Викторович",
+        "company": "Нанолек ООО ",
+        "social": "https://www.facebook.com/profile.php?id=100008617111059"
+    },
+    {
+        "fio": "Криклива Ирина Александровна",
+        "company": "НФаУ",
+        "social": "https://www.facebook.com/nuph.edu.ua/"
+    },
+    {
+        "fio": "Коваленко Юрий Юрьевич",
+        "company": "Фарма Старт ООО ",
+        "social": "https://www.linkedin.com/in/iurii-kovalenko-56941982/"
+    },
+    {
+        "fio": "Чистякова Валерия Евгеньевна",
+        "company": "Нанолек ООО ",
+        "social": "https://www.facebook.com/nanolek"
+    },
+    {
+        "fio": "Черновол Анастасия Анатольевна",
+        "company": "Нанолек ООО ",
+        "social": "https://www.facebook.com/nanolek"
+    },
+    {
+        "fio": "Виноградова Лариса Сергеевна",
+        "company": "Нанолек ООО ",
+        "social": "https://www.facebook.com/nanolek"
+    },
+    {
+        "fio": "Милевская Наталья Сергеевна",
+        "company": "Нанолек ООО ",
+        "social": "https://www.facebook.com/nanolek"
+    },
+    {
+        "fio": "Мартынов Михаил Вячеславович",
+        "company": "Нанолек ООО ",
+        "social": "https://www.facebook.com/nanolek"
+    },
+    {
+        "fio": "Грязев Дмитрий Николаевич",
+        "company": "Нанолек ООО ",
+        "social": "https://www.facebook.com/nanolek"
+    },
+    {
+        "fio": "Макарова Мария Александровна",
+        "company": "Нанолек ООО ",
+        "social": "https://www.facebook.com/nanolek"
+    },
+    {
+        "fio": "Талипов Алексей Мансурович",
+        "company": "Парма Клиникал ООО",
+        "social": "https://www.medisorb.ru"
+    },
+    {
+        "fio": "Сырчина Вероника Равильевна",
+        "company": "Нанолек ООО ",
+        "social": "https://www.facebook.com/nanolek"
+    },
+    {
+        "fio": "Дроздова Анна Вячеславовна",
+        "company": "InterPharmTechnology",
+        "social": "https://www.linkedin.com/mwlite/in/anna-drozdova-6902a8192"
+    },
+    {
+        "fio": "Якубенко Наталия Евгеньевна",
+        "company": "Фармак АО",
+        "social": "https://www.linkedin.com/in/natalia-yakubenko-5a174a150"
+    },
+    {
+        "fio": "Тимофеева Вероника",
+        "company": "Химфарм АО ",
+        "social": "https://www.linkedin.com/in/%D0%B2%D0%B5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0-%D1%82%D0%B8%D0%BC%D0%BE%D1%84%D0%B5%D0%B5%D0%B2%D0%B0-6596bb200/"
+    },
+    {
+        "fio": "Волкадаева Нина Дмитриевна ",
+        "company": "Химфарм АО ",
+        "social": "https:www.linkedin.com/pharmaceutical-industry-reve"
+    },
+    {
+        "fio": "Попова Ирина",
+        "company": "Химфарм АО ",
+        "social": "https://www.linkedin"
+    },
+    {
+        "fio": "Айназарова Руфия Рашидовна",
+        "company": "Химфарм АО ",
+        "social": "https://www.facebook.com/rufisha/about_contact_and_basic_info"
+    },
+    {
+        "fio": "Штоль Карина ",
+        "company": "Химфарм АО ",
+        "social": "https://www.linkedin.com/in/karina-shtol-a52097200"
+    },
+    {
+        "fio": "Нигматулина Александра",
+        "company": "Химфарм АО ",
+        "social": "https://www.facebook.com/alexandra.gavrilenko.14/"
+    },
+    {
+        "fio": "Оспеникова Татьяна",
+        "company": "Химфарм АО ",
+        "social": "https://www.linkedin.com/in/татьяна-оспеникова-550bab200"
+    },
+    {
+        "fio": "Швед Дмитрий Александрович",
+        "company": "Рубикон ООО ",
+        "social": "https://www.linkedin.com/in/дмитрий-швед-9863b9228"
+    },
+    {
+        "fio": "Лукьянчик Павел Геннадьевич",
+        "company": "Мед-интерпласт",
+        "social": "http://facebook/p.lukyanchyk"
+    },
+    {
+        "fio": "Федоренко Дмитро",
+        "company": "Реттенмайер Украина ООО",
+        "social": "https://www.linkedin.com/in/dmytro-fedorenko-94008311/"
+    },
+    {
+        "fio": "Гулик Тарас",
+        "company": "Киевский витаминный завод АО",
+        "social": "https://www.facebook.com/gulyk.t"
+    },
+    {
+        "fio": "Сухинин Сергей Владимирович",
+        "company": "Химфарм АО ",
+        "social": "https://www.facebook.com/taka.timon"
+    },
+    {
+        "fio": "Полынчук Людмила",
+        "company": "Химфарм АО ",
+        "social": "https://www.linkedin.com/in/%D0%BB%D1%8E%D0%B4%D0%BC%D0%B8%D0%BB%D0%B0-%D0%BF%D0%BE%D0%BB%D1%8B%D0%BD%D1%87%D1%83%D0%BA-976754b2/"
+    },
+    {
+        "fio": "Карпеко Катерина Николаевна",
+        "company": "Фармак АО",
+        "social": "https://www.linkedin.com/mwlite/in/kateryna-karpeko-ab2650157"
+    },
+    {
+        "fio": "Дмитроченко Александр Михайлович",
+        "company": "Ясса ООО ПКФ ",
+        "social": "https://ru-ru.facebook.com/Dzmitrachenka"
+    },
+    {
+        "fio": "Колосарь Владимир Юрьевич",
+        "company": "Здоровье ФК ООО",
+        "social": "https://www.facebook.com/profile.php?id=100008163585822"
+    },
+    {
+        "fio": "Дядюн Татьяна Валерьевна ",
+        "company": "НФаУ ",
+        "social": "https://www.facebook.com/profile.php?id=100032217274010"
+    },
+    {
+        "fio": "Бриттал Дмитрий Игоревич",
+        "company": "Реттенмайер Рус ООО",
+        "social": "https://www.linkedin.com/feed/"
+    },
+    {
+        "fio": "Доломакин Юрий Юрьевич",
+        "company": "НУХТ",
+        "social": "https://www.facebook.com/yurii.dol.127/"
+    },
+    {
+        "fio": "Трубников Алексей Александрович ",
+        "company": "ЯГМУ; ЦТФТ им. М.В. Дорогова",
+        "social": "https://www.facebook.com/profile.php?id=100009494115053"
+    },
+    {
+        "fio": "Глебова Наталья Николаевна",
+        "company": "Пензенский государственный университет",
+        "social": "https://www.facebook.com/natali.glebova.507"
+    },
+    {
+        "fio": "Ковалевская Ольга Ивановна",
+        "company": "Кусум Фарм ООО",
+        "social": "https://www.linkedin.com/in/%D0%BE%D0%BB%D1%8C%D0%B3%D0%B0-%D0%BA%D0%BE%D0%B2%D0%B0%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F-3b0b71200/"
+    },
+    {
+        "fio": "Пасухин Андрей Евгеньевич ",
+        "company": "НППБП ИмБио (Филиал Микроген)",
+        "social": "https://www.microgen.ru/"
+    },
+    {
+        "fio": "Иванов М. И.",
+        "company": "Беларусский государственный медицинский университет",
+        "social": "https://www.facebook.com/Medical.University.Ufa/"
+    },
+    {
+        "fio": "Серга Александр Николаевич",
+        "company": "БХФЗ",
+        "social": "https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80-%D1%81%D0%B5%D1%80%D0%B3%D0%B0-237225156/"
+    },
+    {
+        "fio": "Тыщенко Анастасия",
+        "company": "Технолог ЧАО",
+        "social": "https://www.facebook.com/nastya.tyshchenko"
+    },
+    {
+        "fio": "Roman Yemchuk",
+        "company": "Escolit UAB ",
+        "social": "https://www.linkedin.com/in/roman-yemchuk-493443b4"
+    },
+    {
+        "fio": "Свечникова Эльвира Валиевна",
+        "company": "Центр надлежащих практик",
+        "social": "https://www.linkedin.com/mynetwork/add-connections/?midToken=AQFLU8oIs4Z4jQ&midSig=3bz_Dqw9RtQa01&trk=eml-email_pymk_02-pymk-1-see_more&trkEmail=eml-email_pymk_02-pymk-1-see_more-null-9na668%7Ekwxpszcx%7El5-null-neptune%2Fmynetwork%2Eadd%7Econnections"
+    },
+    {
+        "fio": "Неъматов Одилбек",
+        "company": "Nobel Pharmsanoat ИП ООО",
+        "social": "https://www.facebook.com/odilbek.nematov/"
+    },
+    {
+        "fio": "Зуфарова Гульнора Хайруллаевна",
+        "company": "Агенство по развитию фармацевтической отрасли",
+        "social": "https://m.facebook.com/profile.php?id=100003021475599ufarova"
+    },
+    {
+        "fio": "Шарыпов Руслан Адельшаевич",
+        "company": "Белфарм ИП ООО",
+        "social": "https://www.linkedin.com/mwlite/in/%D1%80%D1%83%D1%81%D0%BB%D0%B0%D0%BD-%D1%88%D0%B0%D1%80%D1%8B%D0%BF%D0%BE%D0%B2-842ab0a6"
+    },
+    {
+        "fio": "Махмудов Равшанхон",
+        "company": "Nika Farm ООО",
+        "social": "https://www.facebook.com/ray77777"
+    },
+    {
+        "fio": "Яцкевич Ирина Вячеславовна",
+        "company": "Технолог ЧАО",
+        "social": "https://www.facebook.com/profile.php?"
+    },
+    {
+        "fio": "Савенко Светлана Владимировна",
+        "company": "Фармтехнология ООО",
+        "social": "https://www.facebook.com/"
+    },
+    {
+        "fio": "Шпичак Олег Сергеевич",
+        "company": "НФаУ, Институт повышения квалификации специалистов фармации ",
+        "social": "https://www.facebook.com/shpychak.oleg"
+    },
+    {
+        "fio": "Дюмин Дмитрий Анатольевич",
+        "company": "NOVUGEN PHARMA  ООО ИП ",
+        "social": "https://www.linkedin.com/in/dmitriy-dyumin-805b76b5/"
+    },
+    {
+        "fio": "Сеитова  Вайде Суюновна",
+        "company": "NOVUGEN PHARMA  ООО ИП ",
+        "social": "http/"
+    },
+    {
+        "fio": "Набиев Дилмурод Тухтамурадович",
+        "company": "NOVUGEN PHARMA  ООО ИП ",
+        "social": "http//"
+    },
+    {
+        "fio": "Яковицкая Светлана Анатольевна",
+        "company": "Белмедпрепараты ООО РУП",
+        "social": "https://promoboz.com/event/virtual-oral-solid-dosage-forms-2021.html?utm_source=newsletter&utm_medium=email&utm_campaign=osd"
+    },
+    {
+        "fio": "Шелестная Наталья Викторовна",
+        "company": "Белмедпрепараты ООО РУП",
+        "social": "https://www.facebook.com/belmedpreparaty/"
+    },
+    {
+        "fio": "Корягин Дмитрий Александрович ",
+        "company": "ИМА ЭСТ Москва",
+        "social": "https://www.linkedin.com/company/3365544/"
+    },
+    {
+        "fio": "Митрахович Елена Михайловна",
+        "company": "Белмедпрепараты ООО РУП",
+        "social": "https://www.facebook.com/belmedpreparaty/"
+    },
+    {
+        "fio": "Марынин Александр Станиславович ",
+        "company": "Кусум Фарм ООО",
+        "social": "https://www.facebook.com/oleksandr.marynin.14"
+    },
+    {
+        "fio": "Падхи Праваш ",
+        "company": "Кусум Фарм ООО",
+        "social": "https://www.facebook.com/pravash.padhy.3"
+    },
+    {
+        "fio": "Мелл Акхилендра Бахадур ",
+        "company": "Кусум Фарм ООО",
+        "social": "https://www.facebook.com/akhilendra.mall.5"
+    },
+    {
+        "fio": "Ковриженко Наталья Николаевна",
+        "company": "Кусум Фарм ООО",
+        "social": "https://www.linkedin.com/nataly91a@gmail.com"
+    },
+    {
+        "fio": "Кутасевич Надежда Всеволодовна",
+        "company": "ОНМедУ",
+        "social": "https://www.facebook.com/"
+    },
+    {
+        "fio": "Каминский Павел Болеславович",
+        "company": "Дарница ФФ ЧАО",
+        "social": "https://www.facebook.com/pavel.kamisky"
+    },
+    {
+        "fio": "Гнатенко Олег Михайлович",
+        "company": "Escolit UAB ",
+        "social": "https://www.facebook.com/profile.php?id=100012679834427"
+    },
+    {
+        "fio": "Опольский Константин ",
+        "company": "Витамины АО",
+        "social": "https://www.linkedin.com/in/kostiantyn-opolskyi-56845612a"
+    },
+    {
+        "fio": "Сметанина Екатерина ивановна",
+        "company": "Волынский национальный университет им. Леси Украинки",
+        "social": "https://www.facebook.com/profile.php?id=100005240285840"
+    },
+    {
+        "fio": "Ключникова Инесса",
+        "company": "Химфарм АО ",
+        "social": "https://www.facebook.com/profile.php?id=100006263803623"
+    },
+    {
+        "fio": "Дунайская Ю.И.",
+        "company": "Химфарм АО ",
+        "social": "https://www.facebook.com/profile.php?id=100076045418695"
+    },
+    {
+        "fio": "Удовиченко Владимир Николаевич",
+        "company": "Кусум Фарм ООО",
+        "social": "https://www.facebook.com/vladimir.udovichenko.14"
+    },
+    {
+        "fio": "Амарбакиев Кахраман Нариманович",
+        "company": "NOVUGEN PHARMA  ООО ИП ",
+        "social": "https://www.facebook.com/profile.php?id=100013520772471"
+    },
+    {
+        "fio": "Жувак Владимир Петрович",
+        "company": "Кусум Фарм ООО",
+        "social": "https://www.facebook.com/profile.php?id=100039957161617"
+    },
+    {
+        "fio": "Борисенко Андрій Миколайович",
+        "company": "Интерхим ОДО ",
+        "social": "https://www.facebook.com/profile.php?id=100010575332460"
+    },
+    {
+        "fio": "Друми Юрий",
+        "company": "Интерхим ОДО ",
+        "social": "https://www.facebook.com/drumi.yura"
+    },
+    {
+        "fio": "Невгень Василий Михайлович",
+        "company": "Белмедпрепараты ООО РУП",
+        "social": "https://ru-ru.facebook.com/belmedpreparaty/"
+    },
+    {
+        "fio": "Рябцев Андрей Николаевич",
+        "company": "Белмедпрепараты ООО РУП",
+        "social": "https://www.facebook.com/belmedpreparaty/"
+    },
+    {
+        "fio": "Глушакова Ольга Николаевна",
+        "company": "Белмедпрепараты ООО РУП",
+        "social": "https://www.facebook.com/belmedpreparaty/"
+    },
+    {
+        "fio": "Руденя Елена Александровна",
+        "company": "Белмедпрепараты ООО РУП",
+        "social": "https://www.facebook.com/belmedpreparaty/"
+    },
+    {
+        "fio": "Кузенков Роман",
+        "company": "Исток-Плюс ООО",
+        "social": "https://www.facebook.com/xxxRomanoffxxx/"
+    },
+    {
+        "fio": "Загний Роман Олегович",
+        "company": "Фармак АО",
+        "social": "https://farmak.ua/ru/"
+    },
+    {
+        "fio": "Федулова Анастасия Олеговна",
+        "company": "Фитофарм ЧАО",
+        "social": "https://www.facebook.com/profile.php?id=100026651550974"
+    },
+    {
+        "fio": "Жарская Р. А. ",
+        "company": "ДКП ФФ ООО",
+        "social": "https://www.facebook.com/Vishpha"
+    },
+    {
+        "fio": "Тюрикова Юлия Александровна",
+        "company": "Фитофарм ЧАО",
+        "social": "https://www.facebook.com/profile.php?id=100051221825614"
+    },
+    {
+        "fio": "Винокурова Наталья Владимировна",
+        "company": "Фитофарм ЧАО",
+        "social": "https://www.facebook.com/profile.php?id=100051414582033"
+    },
+    {
+        "fio": "Жирнова Ольга Александровна",
+        "company": "Фитофарм ЧАО",
+        "social": "https://www.facebook.com/olga.zhyrnova.5"
+    },
+    {
+        "fio": "Пилипенко О.М.",
+        "company": "Сперко Украина СУИП ООО",
+        "social": "https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D0%BF%D0%B8%D0%BB%D0%B8%D0%BF%D0%B5%D0%BD%D0%BA%D0%BE-4a1b04166/"
+    },
+    {
+        "fio": "Бадья Елена Анатольевна",
+        "company": "Национальная Гомеопатическая Спилка ЧАО",
+        "social": "https://www.facebook.com/badya.olena"
+    },
+    {
+        "fio": "Талалай Виктория",
+        "company": "Дарница ФФ ЧАО",
+        "social": "https://promoboz.com/event/virtual-oral-solid-dosage-forms-2021.html#contacts"
+    },
+    {
+        "fio": "Жадан Максим",
+        "company": "Stada",
+        "social": "https://www.linkedin.com/in/maxzhadan/"
+    },
+    {
+        "fio": "Шпаковский Евгений Игорьевич",
+        "company": "ДКП ФФ ООО",
+        "social": "https://www.facebook.com/Vishpha"
+    },
+    {
+        "fio": "Харченко Александр Викторович ",
+        "company": "Дарница ФФ ЧАО",
+        "social": "https://www.linkedin.com/in/олександр-харченко-48488a228"
+    },
+    {
+        "fio": "Сичкарь Антонина Анатолиевна",
+        "company": "НФаУ",
+        "social": "https://www.facebook.com/profile.php?id=100006551207666"
+    },
+    {
+        "fio": "Сайко Ирина Владимировна",
+        "company": "НФаУ",
+        "social": "https://www.facebook.com/profile.php?id=100011753252906"
+    },
+    {
+        "fio": "Иванова Анастасия Вадимовна",
+        "company": "Тернофарм",
+        "social": "https://www.facebook.com/nnassttya"
+    },
+    {
+        "fio": "Кульчицкая Вероника Сергеевна",
+        "company": "РУП \"Белмедпрепараты\"",
+        "social": "https://www.facebook.com/belmedpreparaty/"
+    },
+    {
+        "fio": "Литвинова Елена Валерьевна",
+        "company": "РУП \"Белмедпрепараты\"",
+        "social": "https://www.facebook.com/belmedpreparaty/"
+    },
+    {
+        "fio": "Дунец Людмила Николаевна",
+        "company": "РУП \"Белмедпрепараты\"",
+        "social": "https://www.facebook.com/belmedpreparaty/"
+    },
+    {
+        "fio": "Григорьева Екатерина Леонидовна",
+        "company": "РУП \"Белмедпрепараты\"",
+        "social": "https://www.facebook.com/belmedpreparaty/"
+    },
+    {
+        "fio": "Погирницкая Анжелика Вячеславовна",
+        "company": "РУП \"Белмедпрепараты\"",
+        "social": "https://www.facebook.com/belmedpreparaty/"
+    },
+    {
+        "fio": "Тарасова Татьяна Вадимовна",
+        "company": "РУП \"Белмедпрепараты\"",
+        "social": "https://www.facebook.com/belmedpreparaty/"
+    },
+    {
+        "fio": "Нехай Виктория Валерьевна",
+        "company": "РУП \"Белмедпрепараты\"",
+        "social": "https://www.facebook.com/belmedpreparaty/"
+    },
+    {
+        "fio": "Синковец Екатерина Витальевна",
+        "company": "РУП \"Белмедпрепараты\"",
+        "social": "https://www.facebook.com/belmedpreparaty/"
+    },
+    {
+        "fio": "Жамкочян Галина Олеговна",
+        "company": "РУП \"Белмедпрепараты\"",
+        "social": "https://www.facebook.com/belmedpreparaty/"
+    },
+    {
+        "fio": "Антоненко Полина Николаевна",
+        "company": "АО \"Фармак\"",
+        "social": "https://www.facebook.com/profile.php?id=100020249227500"
+    },
+    {
+        "fio": "Zoran Bubalo",
+        "company": "IMA EST ",
+        "social": "https://www.linkedin.com/in/bubalo-zoran-b6856561"
+    },
+    {
+        "fio": "Julia Sorokina ",
+        "company": "IMA EST ",
+        "social": "https://www.linkedin.com/in/julia-sorokina-86b413140/"
+    },
+    {
+        "fio": "Stelmakh Igor",
+        "company": "InterChem SLC",
+        "social": ""
+    },
+    {
+        "fio": "Maroz Natallia",
+        "company": "FARMALABOR S.r.l.",
+        "social": ""
+    },
+    {
+        "fio": "Kashutsky Sergiy",
+        "company": "InterChem SLC ",
+        "social": ""
+    },
+    {
+        "fio": "Borovyk Sana",
+        "company": "Pharmaceutical Industry Review",
+        "social": ""
+    },
+    {
+        "fio": "Goncharov Anton",
+        "company": "COATER.PRO",
+        "social": ""
+    },
+    {
+        "fio": "Kuchinskaya Tatiana",
+        "company": "НАТИВИТА СООО ",
+        "social": ""
+    },
+    {
+        "fio": "C S Nikita",
+        "company": "",
+        "social": ""
+    },
+    {
+        "fio": "Gureyeva Svitlana",
+        "company": "JSC Farmak",
+        "social": ""
+    },
+    {
+        "fio": "Сагайдак Рита",
+        "company": "НФаУ",
+        "social": ""
+    },
+    {
+        "fio": "Ostrovnoy Denys",
+        "company": "Independent Consultant",
+        "social": ""
+    },
+    {
+        "fio": "Lysanskyi Viacheslav",
+        "company": "usp-zdrowie",
+        "social": ""
+    },
+    {
+        "fio": "Natalia Asmolova",
+        "company": "Pharma Start LLC",
+        "social": ""
+    },
+    {
+        "fio": "Сухопара Светлана",
+        "company": "Pharmaceutical Industry Review, magazine",
+        "social": ""
+    },
+    {
+        "fio": "Bisliuk Dmitrii",
+        "company": "FSUE SPbRIVS FMBA",
+        "social": ""
+    },
+    {
+        "fio": "Prysedko Konstantin",
+        "company": "JSC Farmak",
+        "social": ""
+    },
+    {
+        "fio": "Kaminskiy Kirill",
+        "company": "Медикал Фарм Ча-Кур ТОО",
+        "social": ""
+    },
+    {
+        "fio": "Semeniuta Sergii",
+        "company": "PRJSC INDAR",
+        "social": ""
+    },
+    {
+        "fio": "Koshchavets Serhii",
+        "company": "Дельта Медикел ООО",
+        "social": ""
+    },
+    {
+        "fio": "Shmyrova Julia",
+        "company": "Asahi Kasei",
+        "social": ""
+    },
+    {
+        "fio": "Opolskyi Kostiantyn",
+        "company": "PJSC Vitaminy",
+        "social": ""
+    },
+    {
+        "fio": "Perekhrest Pavel",
+        "company": "PJSC SIC 'Borshchahivskiy CPP'",
+        "social": ""
+    },
+    {
+        "fio": "Головлёв Дмитрий",
+        "company": "АМЕДАРТ ООО",
+        "social": ""
+    },
+    {
+        "fio": "Vizir Mykola",
+        "company": "ACINO",
+        "social": ""
+    },
+    {
+        "fio": "Naida Yurii",
+        "company": "JSC Farmak",
+        "social": ""
+    },
+    {
+        "fio": "Sliusar Yurii",
+        "company": "ARTERIUM LTD",
+        "social": ""
+    },
+    {
+        "fio": "Cherednichenko Lesya",
+        "company": "Reform Support Team of the Ministry of Economy of Ukraine",
+        "social": ""
+    },
+    {
+        "fio": "Dmitriieva Marina",
+        "company": "Pharmacopoeial Center of Ukraine",
+        "social": ""
+    },
+    {
+        "fio": "Черенкова Юлия",
+        "company": "ПОЛИСАН НТФФ ООО ",
+        "social": ""
+    },
+    {
+        "fio": "Klishin Sergey",
+        "company": "Фарминженер ООО",
+        "social": ""
+    },
+    {
+        "fio": "Корчагин Юрий",
+        "company": "Трансмедтех ООО ",
+        "social": ""
+    },
+    {
+        "fio": "Chizhikov Timofey",
+        "company": "Institute of pharmacology and toxicology",
+        "social": ""
+    },
+    {
+        "fio": "Feklistov Serhii",
+        "company": "Виола ФФ ЧАО",
+        "social": ""
+    },
+    {
+        "fio": "Zerova Galina",
+        "company": "Pharmaceutical Industry Review, magazine",
+        "social": ""
+    },
+    {
+        "fio": "Евгений Ставничий",
+        "company": "ЛЕККО ЗАО",
+        "social": ""
+    },
+    {
+        "fio": "Semeniuk Serhii",
+        "company": "ARTERIUM LTD",
+        "social": ""
+    },
+    {
+        "fio": "Shoturma Petr",
+        "company": "GMPGDP24",
+        "social": ""
+    },
+    {
+        "fio": "Надолинский Александр",
+        "company": "Киевский витаминный завод АТ",
+        "social": ""
+    },
+    {
+        "fio": "Nishonjonov Nodirbek",
+        "company": "",
+        "social": ""
+    },
+    {
+        "fio": "Mohylyuk Valentyn",
+        "company": "Queen's University Belfast",
+        "social": ""
+    },
+    {
+        "fio": "Soldatov Dmytro",
+        "company": "National university of pharmacy",
+        "social": ""
+    },
+    {
+        "fio": "Asmolov Vitalii",
+        "company": "Pharmex-Group LLC",
+        "social": ""
+    },
+    {
+        "fio": "Redkin Ruslan",
+        "company": "PRO.MED.CS",
+        "social": ""
+    }
+]
+
 }
