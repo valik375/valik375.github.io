@@ -1,0 +1,253 @@
+
+.banner {
+    min-height: calc(100vh - 60px);
+}
+
+.banner__container {
+    height: 100%;
+    position: relative;
+}
+
+.banner__wrapper {
+    padding: 50px 0;
+}
+
+.banner__image {
+    width: 90px;
+    height: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 100px;
+    overflow: hidden;
+    margin: 0 auto 50px;
+}
+
+.banner__image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transform: scale(1.7);
+}
+
+.banner__info-subtitle {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 24px;
+    color: #686868;
+    margin-bottom: 15px;
+}
+
+.banner__info-title {
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 37px;
+    color: #262626;
+    margin-bottom: 60px;
+}
+
+.banner__info-title span {
+    color: #27A27D;
+    text-decoration: underline;
+}
+
+.banner__about-button {
+    margin-bottom: 15px;
+}
+
+.banner__contact-button, .banner__about-button {
+    position: relative;
+    z-index: 9;
+}
+
+.banner__icon {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    animation: rightIconAnimation 22s ease-in-out infinite;
+}
+
+.banner__icon.css, .banner__icon.graphql {
+    display: none;
+    z-index: 0;
+}
+
+.banner__icon.figma {
+    left: -8px;
+    bottom: 60px;
+}
+
+.banner__icon.html {
+    left: 50%;
+    bottom: 156px;
+}
+
+.banner__icon.js {
+    left: 5px;
+    top: 72px;
+    animation: leftIconAnimation 20s ease-in-out infinite;
+}
+
+.banner__icon.react {
+    right: 91px;
+    top: 140px;
+}
+
+.banner__icon.sass {
+    left: 39px;
+    bottom: 180px;
+    animation: leftIconAnimation 20s ease-in-out infinite;
+}
+
+.banner__icon.ts {
+    right: -7px;
+    bottom: 197px;
+}
+
+.banner__icon.vue {
+    right: -1px;
+    top: 24px;
+    animation: leftIconAnimation 20s ease-in-out infinite;
+}
+
+@keyframes rightIconAnimation {
+    0% {
+        transform: translate(0, 0) scale(1);
+    }
+    25% {
+        transform: translate(-10px, -10px) scale(1.1);
+    }
+    50% {
+        transform: translate(10px, -10px) scale(1.2);
+    }
+    100% {
+        transform: translate(0, 0) scale(1);
+    }
+}
+
+@keyframes leftIconAnimation {
+    0% {
+        transform: translate(0, 0) scale(1);
+    }
+    25% {
+        transform: translate(-10px, 10px) scale(1.1);
+    }
+    50% {
+        transform: translate(-10px, -10px) scale(1);
+    }
+    100% {
+        transform: translate(0, 0) scale(1);
+    }
+}
+
+
+@media only screen and (min-width: 700px) {
+    .banner__wrapper {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .banner__image {
+        order: 2;
+        width: 300px;
+        height: 450px;
+        border-radius: 1000px;
+        position: relative;
+        margin: 0;
+        z-index: 9;
+    }
+
+    .banner__image img {
+        transform: scale(1);
+    }
+
+    .banner__info {
+        width: calc(100% - 350px);
+    }
+
+    .banner__info-title {
+        margin-bottom: 40px;
+    }
+
+    .banner__button-wrapper {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .banner__about-button, .banner__contact-button {
+        margin-bottom: 0;
+        width: calc(50% - 10px);
+    }
+
+    .banner__icon {
+        width: 42px;
+        height: 42px;
+    }
+
+    .banner__icon.css, .banner__icon.graphql {
+        display: block;
+    }
+
+    .banner__icon.css {
+        right: 21px;
+        bottom: 20px;
+    }
+
+    .banner__icon.graphql {
+        right: 230px;
+        top: 20px;
+    }
+
+    .banner__icon.figma {
+        left: 90px;
+        bottom: 100px;
+    }
+
+    .banner__icon.html {
+        left: 50%;
+        bottom: 156px;
+    }
+
+    .banner__icon.js {
+        left: 130px;
+        top: 72px;
+    }
+
+    .banner__icon.react {
+        right: calc(50% + 20px);
+        top: 150px;
+    }
+
+    .banner__icon.sass {
+        left: 39px;
+        bottom: 200px;
+    }
+
+    .banner__icon.ts {
+        left: calc(50% - 100px);
+        bottom: 61px;
+    }
+
+    .banner__icon.vue {
+        right: -1px;
+        top: 24px;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+
+    .banner__image {
+        margin-right: 100px;
+    }
+
+    .banner__info {
+        width: 440px;
+    }
+
+    .banner__icon.html {
+        bottom: 227px;
+    }
+
+}

@@ -1,0 +1,107 @@
+body.dark {
+    background: #333333;
+}
+
+body.dark .header {
+    background: #333333;
+}
+
+body.dark .header__social-share {
+    background: #333333;
+    box-shadow: 0 2px 8px rgba(255, 255, 255, 0.25);
+}
+
+body.dark .header__share-icon path {
+    stroke: #fff;
+}
+
+body.dark .header__arrow-icon path {
+    fill: #fff;
+}
+
+body.dark .header__social-wrapper {
+    background: #333333;
+    box-shadow: 0 2px 8px rgba(255, 255, 255, 0.25);
+}
+
+body.dark .header__social-item.git path, body.dark .header__social-item.linkedin path {
+    stroke: #fff;
+}
+
+body.dark .header__social-item.email path {
+    fill: #fff;
+}
+
+body.dark .header__logo {
+    color: #fff;
+}
+
+body.dark .banner__info-subtitle {
+    color: #b1b1b1;
+}
+
+body.dark .banner__info-title {
+    color: #fff;
+}
+
+body.dark .about-me__person-info {
+    background: #333333;
+    box-shadow: 0 2px 8px rgba(255, 255, 255, 0.25);
+}
+
+body.dark .about-me__info-name {
+    color: #fff;
+}
+
+body.dark .about-me__info-date {
+    color: #b1b1b1;
+}
+
+body.dark .about-me__info-english {
+    color: #b1b1b1;
+}
+
+body.dark .about-me__info-english span {
+    color: #fff;
+}
+
+body.dark .about-me__info-skill-title {
+    border-color: #5f5f5f;
+}
+
+body.dark .about-me__info-skill-stack {
+    color: #b1b1b1;
+}
+
+body.dark .about-me__content-text {
+    color: #b1b1b1;
+}
+
+body.dark .about-me__company-name {
+    color: #fff;
+}
+
+body.dark .about-me__project-title {
+    color: #fff;
+}
+
+body.dark .about-me__education-title {
+    color: #fff;
+}
+
+body.dark .footer__logo {
+    color: #fff;
+}
+
+body.dark .footer__link.git path, body.dark .footer__link.linkedin path {
+    stroke: #fff;
+}
+
+body.dark .footer__link.email path {
+    fill: #fff;
+}
+
+
+
+
+
