@@ -5,6 +5,7 @@
   <meta name="viewport"
         content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta name="apple-itunes-app" content="app-id=1441243952, app-argument=myURL">
   <link rel="stylesheet" href="styles/common.css">
   <link rel="stylesheet" href="styles/header.css">
   <link rel="stylesheet" href="styles/banner.css">
@@ -123,8 +124,7 @@
             <h1 class="banner__info-title">A <span>FrontEnd Developer</span> from Poland</h1>
 
             <div class="banner__button-wrapper">
-              <a href="market://launch?id={com.elker.app}" class="banner__about-button button">About Me</a>
-              <a href="market://launch?id=com.elker.app" class="banner__about-button button">About Me 2</a>
+              <a href="#about" class="banner__about-button button">About Me</a>
               <a href="mailto:valentynzamiliukhin@gmail.com" class="banner__contact-button button">Contact</a>
             </div>
           </div>
@@ -270,26 +270,5 @@
   </footer>
 
 <script src="./main.js"></script>
-<script>
-  const getMobileOperatingSystem = () => {
-      const userAgent = navigator.userAgent || navigator.vendor || window.opera
-
-      if (/windows phone/i.test(userAgent)) {
-        return 'Windows Phone';
-      }
-
-      if (/android/i.test(userAgent)) {
-        return 'Android';
-      }
-
-      if (/iPad|iPhone|iPod/.test(userAgent) && !window.MSStream) {
-        return 'iOS';
-      }
-
-      return 'unknown';
-    }
-
-  document.querySelector('.banner__info-subtitle').innerText += getMobileOperatingSystem()
-</script>
 </body>
 </html>
