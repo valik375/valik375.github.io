@@ -275,6 +275,10 @@
   meta.name = "apple-itunes-app"
   meta.content = "app-id=1441243952"
   document.getElementsByTagName('head')[0].appendChild(meta)
+
+  if (/^((?!chrome|android).)*safari/i.test(userAgent)) {
+    document.querySelector('.header__logo').innerHTML = 'Safari'
+  }
 </script>
 </body>
 </html>
