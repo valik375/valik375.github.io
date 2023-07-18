@@ -270,15 +270,11 @@
 
 <script src="./main.js"></script>
 <script>
-  let meta = document.createElement('meta')
-  meta.name = "apple-itunes-app"
-  meta.content = "app-id=1441243952"
-  document.getElementsByTagName('head')[0].appendChild(meta)
-  
-  const userAgent = window.navigator.userAgent.toLowerCase()
-  if (/^((?!chrome|android).)*safari/i.test(userAgent)) {
-    document.querySelector('.header__logo').innerHTML = 'Safari'
-  }
+    const userAgent = window.navigator.userAgent
+    const iOS = !!userAgent.match(/iPad/i) || !!userAgent.match(/iPhone/i)
+    const webkit = !!userAgent.match(/WebKit/i)
+    const iOSSafari = iOS && webkit && !userAgent.match(/CriOS/i)
+    alert(`Is Safari: ${iOSSafari}`)
 </script>
 </body>
 </html>
