@@ -271,11 +271,8 @@
 
 <script src="./main.js"></script>
 <script>
-    const userAgent = navigator.userAgent || navigator.vendor || window.opera
-    const iOS = !!userAgent.match(/iPad/i) || !!userAgent.match(/iPhone/i)
-    const webkit = !!userAgent.match(/WebKit/i)
-    const iOSSafari = iOS && webkit && !userAgent.match(/CriOS/i)
-    document.querySelector('.banner__info-title span').innerText = userAgent
+    const is_firefox = navigator.userAgent.toLowerCase().indexOf('firefox') > -1;
+    document.querySelector('.banner__logo').innerText = is_firefox
 </script>
 </body>
 </html>
