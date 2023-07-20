@@ -29,10 +29,3 @@ shareButton.addEventListener('click', () => {
         socialWrapper.classList.remove('show')
     }
 })
-
-const userAgent = navigator.userAgent || navigator.vendor || window.opera
-const iOS = !!userAgent.match(/iPad/i) || !!userAgent.match(/iPhone/i)
-const webkit = !!userAgent.match(/WebKit/i)
-const iOSSafari = iOS && webkit && !userAgent.match(/CriOS/i)
-document.querySelector('.header__logo').innerText = iOSSafari
-alert(`Is Safari: ${iOSSafari}`)
