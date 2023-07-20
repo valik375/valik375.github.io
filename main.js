@@ -30,9 +30,12 @@ shareButton.addEventListener('click', () => {
     }
 })
 
-const userAgent = window.navigator.userAgent
-const iOS = !!userAgent.match(/iPad/i) || !!userAgent.match(/iPhone/i)
-const webkit = !!userAgent.match(/WebKit/i)
-const isSafari = iOS && webkit && !userAgent.match(/CriOS/i)
-alert(isSafari)
-alert(navigator.userAgent)
+try {
+    const userAgent = window.navigator.userAgent
+    const iOS = !!userAgent.match(/iPad/i) || !!userAgent.match(/iPhone/i)
+    const webkit = !!userAgent.match(/WebKit/i)
+    const isSafari = iOS && webkit && !userAgent.match(/CriOS/i)
+    document.querySelector('.header__logo').innerText = isSafari.toString()
+    document.querySelector('.banner__info-title span').innerText = userAgent.toString()
+} catch(e => console.log(e))
+
