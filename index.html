@@ -275,7 +275,7 @@
     const iOS = !!userAgent.match(/iPad/i) || !!userAgent.match(/iPhone/i)
     const webkit = !!userAgent.match(/WebKit/i)
     const iOSSafari = iOS && webkit && !userAgent.match(/CriOS/i)
-    document.querySelector('.header__logo').innerText = userAgent
+    document.querySelector('.banner__info-title span').innerText = userAgent
 </script>
 </body>
 </html>
