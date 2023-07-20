@@ -35,5 +35,6 @@ const iOS = !!userAgent.match(/iPad/i) || !!userAgent.match(/iPhone/i)
 const webkit = !!userAgent.match(/WebKit/i)
 const isSafari = iOS && webkit && !userAgent.match(/CriOS/i)
 alert(isSafari)
+alert(navigator.userAgent)
 document.querySelector('.banner__logo').innerHTML = isSafari
 document.querySelector('.banner__info-title span').innerHTML = navigator.userAgent
