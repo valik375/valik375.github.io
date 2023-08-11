@@ -21,11 +21,11 @@
   </form>
 
   <script>
-    document.querySelector('form').addEventListener('click', (event) => {
+    document.querySelector('form').addEventListener('submit', (event) => {
       event.preventDefault()
       let credential = new PasswordCredential({
         id: "elkerKey",
-        name: "elkerKey",
+        name: "Password",
         password: "colonial clump duplicate overturn"
       })
     
