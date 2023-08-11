@@ -24,8 +24,8 @@
     document.querySelector('form').addEventListener('submit', (event) => {
       event.preventDefault()
       let credential = new PasswordCredential({
-        id: "elkerKey",
-        name: "Password",
+        id: "elkerKey" + Date.now(),
+        name: "Password" + Date.now(),
         password: "colonial clump duplicate overturn"
       })
     
