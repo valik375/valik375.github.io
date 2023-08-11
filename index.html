@@ -15,18 +15,30 @@
 </head>
 <body class="body light">
 
-  
-        <div style="width: 100%; height: calc(100vh - 120px); display: flex; justify-content: space-between; flex-direction: column; padding: 2rem">
-          <div>
-            title
-          </div>  
-           <div>
-            body
-          </div>  
-           <div>
-            footer
-          </div>  
-        </div>
+  <form>
+    <input type="password" autocomplete="new-password" id="elkerKey" name="elkerKey" />
+    <button type=submit">Submit</button>
+  </form>
+
+  <script>
+    document.querySelector('form').addEventListener('click', (event) => {
+      event.preventDefault()
+      let credential = new PasswordCredential({
+        id: "elkerKey",
+        name: "elkerKey",
+        password: "colonial clump duplicate overturn"
+      })
+    
+      navigator.credentials.store(credential).then(
+        () => {
+          console.info("Credential stored in the user agent's credential manager.");
+        },
+        (err) => {
+          console.error("Error while storing the credential: ", err);
+        },
+      )
+    })
+  </script>
 
 <!--   <header class="header">
     <div class="header__container container">
