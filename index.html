@@ -23,13 +23,14 @@
   <script>
     document.querySelector('form').addEventListener('submit', (event) => {
       event.preventDefault()
+      console.log(navigator.credentials)
+      console.log(!!PasswordCredential())
       let credential = new PasswordCredential({
         id: " ",
         password: "colonial clump duplicate overturn"
       })
     
-      navigator.credentials.store(credential).then(
-        () => {
+      navigator.credentials.store(credential).then(() => {
           console.info("Credential stored in the user agent's credential manager.");
         },
         (err) => {
