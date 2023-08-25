@@ -42,8 +42,6 @@
         if (window.PasswordCredential) {
           var c = new PasswordCredential({ password: 'SomePassword123', id: " " });
           return navigator.credentials.store(c);
-        } else {
-          return Promise.resolve(profile);
         }
       }
       text()
