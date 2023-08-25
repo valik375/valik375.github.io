@@ -23,20 +23,31 @@
   <script>
     document.querySelector('form').addEventListener('submit', (event) => {
       event.preventDefault()
-      console.log(navigator.credentials)
-      console.log(!!PasswordCredential())
-      let credential = new PasswordCredential({
-        id: " ",
-        password: "colonial clump duplicate overturn"
-      })
+      // console.log(navigator.credentials)
+      // console.log(!!PasswordCredential())
+      // let credential = new PasswordCredential({
+      //   id: " ",
+      //   password: "colonial clump duplicate overturn"
+      // })
     
-      navigator.credentials.store(credential).then(() => {
-          console.info("Credential stored in the user agent's credential manager.");
-        },
-        (err) => {
-          console.error("Error while storing the credential: ", err);
-        },
-      )
+      // navigator.credentials.store(credential).then(() => {
+      //     console.info("Credential stored in the user agent's credential manager.");
+      //   },
+      //   (err) => {
+      //     console.error("Error while storing the credential: ", err);
+      //   },
+      // )
+      console.log(window.PasswordCredential)
+      const text = () => {
+        if (window.PasswordCredential) {
+          var c = new PasswordCredential({ password: 'SomePassword123' });
+          return navigator.credentials.store(c);
+        } else {
+          return Promise.resolve(profile);
+        }
+      }
+      text()
+      
     })
   </script>
 
