@@ -39,11 +39,17 @@
       // )
 
       if ("credentials" in navigator || navigator.credentials) {
-        navigator.credentials.get({ password: true }).then((creds) => {
-            console.log(creds)
-          if (!!password) {
-            return
-          }
+        navigator.credentials.get({ publicKey }).then((publicKeyCredential) => {
+          const response = publicKeyCredential.response;
+          console.log('response', response)
+          const authenticatorData = response.authenticatorData;
+          console.log('authenticatorData', authenticatorData)
+          const clientJSON = response.clientDataJSON;
+          console.log('clientJSON', clientJSON)
+          const signature = response.signature;
+          console.log('signature', signature)
+          const userHandle = response.userHandle;
+          console.log('userHandle', userHandle)
         })
       }
       console.log('After getting')
