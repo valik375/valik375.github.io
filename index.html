@@ -39,7 +39,7 @@
       // )
       console.log(window.PasswordCredential || 'PasswordCredential' in window)
       const text = () => {
-        if (window.PasswordCredential) {
+        if (window.PasswordCredential || 'PasswordCredential' in window) {
           var c = new PasswordCredential({ password: 'SomePassword123', id: " " });
           return navigator.credentials.store(c);
         }
