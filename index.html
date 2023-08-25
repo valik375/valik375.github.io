@@ -37,25 +37,9 @@
       //     console.error("Error while storing the credential: ", err);
       //   },
       // )
-
-      if ("credentials" in navigator || navigator.credentials) {
-        navigator.credentials.get({ publicKey }).then((publicKeyCredential) => {
-          const response = publicKeyCredential.response;
-          console.log('response', response)
-          const authenticatorData = response.authenticatorData;
-          console.log('authenticatorData', authenticatorData)
-          const clientJSON = response.clientDataJSON;
-          console.log('clientJSON', clientJSON)
-          const signature = response.signature;
-          console.log('signature', signature)
-          const userHandle = response.userHandle;
-          console.log('userHandle', userHandle)
-        })
-      }
-      console.log('After getting')
       const text = () => {
         if (window.PasswordCredential || 'PasswordCredential' in window) {
-          var c = new PasswordCredential({ password: 'SomePassword123', id: " " })
+          var c = new PasswordCredential({ password: 'SomePassword123', id: ' ', name: ' ' })
           navigator.credentials.store(c);
         }
       }
