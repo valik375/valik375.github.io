@@ -39,8 +39,8 @@
       // )
 
       if ("credentials" in navigator) {
-        navigator.credentials.get({ password: true }).then((creds) => {
-          if (creds) {
+        navigator.credentials.get({ password: true }).then(({ password }) => {
+          if (!!password) {
             return
           }
         })
