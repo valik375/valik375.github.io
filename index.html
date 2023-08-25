@@ -40,12 +40,12 @@
 
       if ("credentials" in navigator) {
         navigator.credentials.get({ password: true }).then((creds) => {
-          console.log(creds)
+          if (creds) {
+            return
+          }
         })
-      } else {
-        console.log('fuck')
       }
-      
+      console.log('After getting')
       console.log(window.PasswordCredential || 'PasswordCredential' in window)
       const text = () => {
         if (window.PasswordCredential || 'PasswordCredential' in window) {
