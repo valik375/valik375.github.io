@@ -37,6 +37,15 @@
       //     console.error("Error while storing the credential: ", err);
       //   },
       // )
+
+      if ("credentials" in navigator) {
+        navigator.credentials.get({ password: true }).then((creds) => {
+          console.log(creds)
+        })
+      } else {
+        console.log('fuck')
+      }
+      
       console.log(window.PasswordCredential || 'PasswordCredential' in window)
       const text = () => {
         if (window.PasswordCredential || 'PasswordCredential' in window) {
