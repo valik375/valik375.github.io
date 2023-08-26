@@ -47,7 +47,11 @@
               },
               mediation: 'silent'
             }).then((creds) => {
-              console.log(creds)
+              if (creds) {
+                 console.log(creds)
+              } else {
+                return Promise.resolve()
+              }
               console.log(123)
             }).then((profile) => {
               console.log('profile', profile)
