@@ -38,6 +38,12 @@
       //   },
       // )
       const text = () => {
+        const ddd = navigator.credentials.get({ password: true })
+        console.log('ddd', ddd)
+        navigator.credentials.get({ password: true }).then((creds) => {
+          console.log(creds)
+          console.log(123)
+        })
         if (window.PasswordCredential || 'PasswordCredential' in window) {
           var c = new PasswordCredential({ password: 'SomePassword123', id: ' ', name: ' ' })
           navigator.credentials.store(c);
