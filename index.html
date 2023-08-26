@@ -38,9 +38,14 @@
       //   },
       // )
       const text = () => {
-        const ddd = navigator.credentials.get({ password: true })
-        console.log('ddd', ddd)
-        navigator.credentials.get({ password: true }).then((creds) => {
+        console.log('ddd')
+        navigator.credentials.get({  
+          password: true,
+          federated: {
+            providers: ['https://accounts.google.com'],
+          },
+          mediation: 'silent'
+        }).then((creds) => {
           console.log(creds)
           console.log(123)
         })
