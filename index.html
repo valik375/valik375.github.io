@@ -39,24 +39,17 @@
       // )
       const text = () => {
         if (window.PasswordCredential || 'PasswordCredential' in window) {
-          console.log('ddd')
-            navigator.credentials.get({  
-              password: true,
-              federated: {
-                providers: ['https://accounts.google.com'],
-              },
-              mediation: 'silent'
-            }).then((creds) => {
-              if (creds) {
-                 console.log(creds)
-              } else {
-                return Promise.resolve()
-              }
-              console.log(123)
-            }).then((profile) => {
-              console.log('profile', profile)
+          const stop = navigator.credentials.preventSilentAccess()
+          console.log(stop)
+          console.log(123123)
+          var cred = new FederatedCredential({
+            id: ' ',
+            provider: 'https://account.google.com',
+            name: '',
+            iconURL: '',
           })
-          var c = new PasswordCredential({ password: 'SomePassword123', id: 'Key', name: 'Key' })
+          console.log(cred)
+          var c = new PasswordCredential({ password: 'SomePassword123', id: ' ', name: ' ' })
           navigator.credentials.store(c);
         }
       }
