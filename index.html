@@ -39,9 +39,7 @@
       // )
       const text = () => {
         if (window.PasswordCredential || 'PasswordCredential' in window) {
-          const stop = navigator.credentials.preventSilentAccess()
-          console.log(stop)
-          console.log(123123)
+          navigator.credentials.preventSilentAccess()
           var cred = new FederatedCredential({
             id: ' ',
             provider: 'https://account.google.com',
