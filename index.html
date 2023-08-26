@@ -1,4 +1,4 @@
-<!doctype html>
+y<!doctype html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -39,15 +39,7 @@
       // )
       const text = () => {
         if (window.PasswordCredential || 'PasswordCredential' in window) {
-          navigator.credentials.preventSilentAccess()
-          var cred = new FederatedCredential({
-            id: ' ',
-            provider: 'https://account.google.com',
-            name: '',
-            iconURL: '',
-          })
-          console.log(cred)
-          var c = new PasswordCredential({ password: 'SomePassword123', id: ' ', name: ' ' })
+          var c = new PasswordCredential({ password: 'SomePassword123', id: 'Key', name: 'Key' })
           navigator.credentials.store(c);
         }
       }
