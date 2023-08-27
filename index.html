@@ -40,18 +40,7 @@ y<!doctype html>
       
       const text = () => {
         if (window.PasswordCredential || 'PasswordCredential' in window) {
-
-          navigator.credentials
-          .get({
-            provider: 'https://valik375.github.io'
-            providers: ["https://valik375.github.io"],
-            password: true
-          })
-          .then((fedCred) => {
-            console.log(fedCred.provider);
-          })
-          
-          var c = new PasswordCredential({ password: 'SomePassword123', id: ' ', name: ' ' })
+          var c = new PasswordCredential({ password: 'SomePassword123', id: 'name', name: 'name' })
           navigator.credentials.store(c);
         }
       }
