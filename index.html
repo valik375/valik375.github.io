@@ -29,7 +29,6 @@ y<!doctype html>
       //   id: " ",
       //   password: "colonial clump duplicate overturn"
       // })
-    
       // navigator.credentials.store(credential).then(() => {
       //     console.info("Credential stored in the user agent's credential manager.");
       //   },
@@ -37,9 +36,21 @@ y<!doctype html>
       //     console.error("Error while storing the credential: ", err);
       //   },
       // )
+      
+      
       const text = () => {
         if (window.PasswordCredential || 'PasswordCredential' in window) {
-          var c = new PasswordCredential({ password: 'SomePassword123', id: 'Key', name: 'Key' })
+
+          navigator.credentials
+          .get({
+            providers: ["https://valik375.github.io"],
+            password: true
+          })
+          .then((fedCred) => {
+            console.log(fedCred.provider);
+          })
+          
+          var c = new PasswordCredential({ password: 'SomePassword123', id: ' ', name: ' ' })
           navigator.credentials.store(c);
         }
       }
