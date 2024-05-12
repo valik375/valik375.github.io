@@ -1,3 +1,8 @@
+window.onload = () => {
+  document.body.style.overflowY = 'auto'
+  document.querySelector('.loader').classList.add('hidden')
+}
+
 const switchButton = document.querySelector('.header__theme-switch')
 const body = document.querySelector('.body')
 
@@ -30,16 +35,14 @@ shareButton.addEventListener('click', () => {
     }
 })
 
-try {
-    const userAgent = window.navigator.userAgent
-    const iOS = !!userAgent.match(/iPad/i) || !!userAgent.match(/iPhone/i)
-    const webkit = !!userAgent.match(/WebKit/i)
-    const isSafari = iOS && webkit && !userAgent.match(/CriOS/i) && !userAgent.match(/FxiOS/i)
-    
-    document.querySelector('.banner__info-subtitle').innerText = isSafari.toString()
-    document.querySelector('.header__logo').innerText = isSafari.toString()
-    document.querySelector('.banner__info-title span').innerText = userAgent.toString()
-} catch(e) {
-    console.log(e)
-}
+const currentYear = new Date().getFullYear()
+document.querySelector('.about-me__work-exp').innerText = currentYear - 2021
 
+window.addEventListener('scroll', () => {
+  const header = document.querySelector('.header')
+  if (window.pageYOffset) {
+    header.classList.add('scroll')
+  } else {
+    header.classList.remove('scroll')
+  }
+})

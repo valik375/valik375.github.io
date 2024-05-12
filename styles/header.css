@@ -6,6 +6,11 @@
     top: 0;
     background: #fff;
     z-index: 99;
+    transition: all .3s ease;
+}
+
+.header.scroll {
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
 }
 
 .header__container {
@@ -101,7 +106,7 @@
     height: 30px;
     width: 60px;
     background: #fff;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.25);
     border-radius: 100px;
     display: flex;
     align-items: center;
